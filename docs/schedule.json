@@ -1,0 +1,476 @@
+{
+  "updatedAt": "2025-06-11T19:40:51.641561+09:00",
+  "groups": [
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "CHPY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "BRKC"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "BABO"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "ABNY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "AIYY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "AMDY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "AMZY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "GPTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "CRSH"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "DIPS"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "LFGY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "FEAT"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "FBY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "CONY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "APLY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "QDTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "FIVY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "GDXY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "CVNY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "DISO"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "FIAT"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "MSTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "RDTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "GOOY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "JPMO"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "SMCY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "SDTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "OARK"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "MARO"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "HOOY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "ULTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "SNOY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "MRNY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "MSFO"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "WNTR"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "XYZY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "YMAG"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "TSLY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "NVDY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "NFLY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "YMAX"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "TSMY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupB",
+      "frequency": "monthly",
+      "etfs": [
+        "PLTY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupC",
+      "frequency": "monthly",
+      "etfs": [
+        "PYPY"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupD",
+      "frequency": "monthly",
+      "etfs": [
+        "YQQQ"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "XOMO"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    },
+    {
+      "group": "GroupA",
+      "frequency": "monthly",
+      "etfs": [
+        "YBIT"
+      ],
+      "nextExDate": "",
+      "nextPayDate": "",
+      "events": []
+    }
+  ],
+  "upcoming": null
+}

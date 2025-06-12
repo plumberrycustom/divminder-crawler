@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": {
+    "endpoints": {
+      "etfs": "/etfs.json",
+      "history": "/dividends_{SYMBOL}.json",
+      "schedule": "/schedule.json"
+    },
+    "groups": [
+      "GroupA",
+      "GroupB",
+      "GroupC",
+      "GroupD",
+      "Weekly",
+      "Target12"
+    ],
+    "lastUpdated": "2025-06-11T19:40:51+09:00",
+    "nextUpdate": "2025-06-12T19:40:51+09:00",
+    "totalETFs": 149,
+    "upcomingEvents": 0,
+    "version": "1.0.0"
+  },
+  "timestamp": "2025-06-11T19:40:51.643237+09:00"
+}

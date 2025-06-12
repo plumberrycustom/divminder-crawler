@@ -1,0 +1,28 @@
+# CORS Headers for DivMinder API
+<IfModule mod_headers.c>
+    # Allow cross-origin requests for JSON files
+    <FilesMatch "\.(json)$">
+        Header set Access-Control-Allow-Origin "*"
+        Header set Access-Control-Allow-Methods "GET, OPTIONS"
+        Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+        Header set Access-Control-Max-Age "86400"
+        Header set Cache-Control "public, max-age=300"
+    </FilesMatch>
+    
+    # Handle preflight OPTIONS requests
+    RewriteEngine On
+    RewriteCond %{REQUEST_METHOD} OPTIONS
+    RewriteRule ^(.*)$ $1 [R=200,L]
+</IfModule>
+
+# Content-Type headers for JSON files
+<IfModule mod_mime.c>
+    AddType application/json .json
+</IfModule>
+
+# Compression for better performance
+<IfModule mod_deflate.c>
+    <FilesMatch "\.(json|js|css|html)$">
+        SetOutputFilter DEFLATE
+    </FilesMatch>
+</IfModule> 

@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "data": {
+    "endpoints": {
+      "api_info": "/api_summary_v2.json",
+      "etfs": "/etfs.json",
+      "history": "/dividends_{SYMBOL}.json",
+      "schedule": "/schedule_v2.json"
+    },
+    "features": [
+      "Real-time YieldMax schedule scraping",
+      "Enhanced ETF group mapping",
+      "Comprehensive dividend history",
+      "Upcoming events prediction",
+      "JSON API for mobile apps"
+    ],
+    "groups": {
+      "GroupA": 137,
+      "GroupB": 0,
+      "GroupC": 0,
+      "GroupD": 0,
+      "Target12": 3,
+      "Weekly": 9
+    },
+    "lastUpdated": "2025-06-11T19:49:42+09:00",
+    "nextUpdate": "2025-06-12T19:49:40+09:00",
+    "status": "operational",
+    "totalETFs": 149,
+    "totalGroups": 6,
+    "upcomingEvents": 88,
+    "updateFrequency": "Daily at 00:05 KST",
+    "version": "2.0.0"
+  },
+  "timestamp": "2025-06-11T19:49:42.589895+09:00"
+}

@@ -1,0 +1,1343 @@
+[
+  {
+    "symbol": "TSLY",
+    "name": "YieldMax™ TSLA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "OARK",
+    "name": "YieldMax™ Innovation Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "APLY",
+    "name": "YieldMax™ AAPL Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "NVDY",
+    "name": "YieldMax™ NVDA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AMZY",
+    "name": "YieldMax™ AMZN Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "FBY",
+    "name": "YieldMax™ META Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "GOOY",
+    "name": "YieldMax™ GOOGL Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "CONY",
+    "name": "YieldMax™ COIN Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "NFLY",
+    "name": "YieldMax™ NFLX Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "DISO",
+    "name": "YieldMax™ DIS Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MSFO",
+    "name": "YieldMax™ MSFT Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "XOMO",
+    "name": "YieldMax™ XOM Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "JPMO",
+    "name": "YieldMax™ JPM Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AMDY",
+    "name": "YieldMax™ AMD Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "PYPY",
+    "name": "YieldMax™ PYPL Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "XYZY",
+    "name": "YieldMax™ XYZ Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MRNY",
+    "name": "YieldMax™ MRNA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AIYY",
+    "name": "YieldMax™ AI Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YMAX",
+    "name": "YieldMax™ Universe Fund of Option Income ETFs",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YMAG",
+    "name": "YieldMax™ Magnificent 7 Fund of Option Income ETFs",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MSTY",
+    "name": "YieldMax™ MSTR Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "ULTY",
+    "name": "YieldMax™ Ultra Option Income Strategy ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YBIT",
+    "name": "YieldMax™ Bitcoin Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "CRSH",
+    "name": "YieldMax™ Short TSLA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "GDXY",
+    "name": "YieldMax™ Gold Miners Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SNOY",
+    "name": "YieldMax™ SNOW Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "ABNY",
+    "name": "YieldMax™ ABNB Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "FIAT",
+    "name": "YieldMax™ Short COIN Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "DIPS",
+    "name": "YieldMax™ Short NVDA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "BABO",
+    "name": "YieldMax™ BABA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YQQQ",
+    "name": "YieldMax™ YQQQ Short N100 Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "TSMY",
+    "name": "YieldMax™ TSM Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SMCY",
+    "name": "YieldMax™ SMCI Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "PLTY",
+    "name": "YieldMax™ PLTR Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "BIGY",
+    "name": "YieldMax™ BIGY Target 12™ Big 50 Option Income ETF",
+    "group": "Target12",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SOXY",
+    "name": "YieldMax™ Target 12™ Semiconductor Option Income ETF",
+    "group": "Target12",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MARO",
+    "name": "YieldMax™ MARA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "FEAT",
+    "name": "YieldMax™ Dorsey Wright Featured 5 Income ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "FIVY",
+    "name": "YieldMax™ Dorsey Wright Hybrid 5 Income ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "LFGY",
+    "name": "YieldMax™ Crypto Industry \u0026 Tech Portfolio Option Income ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "GPTY",
+    "name": "YieldMax™ AI \u0026 Tech Portfolio Option Income ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "CVNY",
+    "name": "YieldMax™ CVNA Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SDTY",
+    "name": "YieldMax™ S\u0026P 500 0DTE Covered Call Strategy ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "QDTY",
+    "name": "YieldMax™ Nasdaq 100 0DTE Covered Call Strategy ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "RDTY",
+    "name": "YieldMax™ R2000 0DTE Covered Call Strategy ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "WNTR",
+    "name": "YieldMax™ Short MSTR Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "CHPY",
+    "name": "YieldMax™ Semiconductor Portfolio Option Income ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "RNTY",
+    "name": "YieldMax™ Target 12™ Real Estate Option Income ETF",
+    "group": "Target12",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "HOOY",
+    "name": "YieldMax™ HOOD Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "BRKC",
+    "name": "YieldMax™ BRK.B Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax TSLY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.76",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax Innovation Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.88",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax APLY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.42",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax NVDY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.98",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax AMZY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.09",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax FBY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.21",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax GOOY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.29",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax CONY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.53",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax NFLY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.98",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax DISO Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.16",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax MSFO Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.13",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax AMDY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.09",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax XOMO Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.62",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax JPMO Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.02",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax PYPY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.41",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax SQY Option Income Strategy ETF",
+    "name": "03/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "5.21",
+    "name": "02/28/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax MRNY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.20",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax AIYY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.97",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax YMAX Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "88.53",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax YMAG Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "66.50",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax MSTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "1.76",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax ULTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "1.54",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax YBIT Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.08",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax CRSH Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.38",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax GDXY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.27",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax SNOY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.97",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax ABNY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.93",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax FIAT Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.78",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax DIPS Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.32",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax BABO Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.35",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax YQQQ Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.87",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax TSMY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.05",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax SMCY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.76",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax PLTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.20",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax BIGY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax MARO Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "3.30",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax FIVY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "35.26",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax LFGY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax GPTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.81",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax CVNY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax SDTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax QDTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "52.99",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax FEAT Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.17",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax SOXY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax RDTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.89",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax WNTR Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax CHPY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.38",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax RNTY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "2.21",
+    "name": "05/31/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax HOOY Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YieldMax BRKC Option Income Strategy ETF",
+    "name": "06/10/2025",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "0.00",
+    "name": "12/31/2024",
+    "group": "GroupA",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  }
+]

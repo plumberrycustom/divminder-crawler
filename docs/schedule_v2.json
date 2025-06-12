@@ -1,0 +1,2387 @@
+{
+  "updatedAt": "2025-06-11T19:49:40.245281+09:00",
+  "groups": [
+    {
+      "group": "GroupD",
+      "frequency": "weekly",
+      "etfs": [
+        "XYZY",
+        "MSTY",
+        "APLY",
+        "SMCY",
+        "WNTR",
+        "AIYY",
+        "AMZY",
+        "DISO",
+        "YQQQ"
+      ],
+      "nextExDate": "2025-06-25",
+      "nextPayDate": "2025-06-26",
+      "events": [
+        {
+          "symbol": "DISO",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YQQQ",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "XYZY",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "APLY",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "MSTY",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "AIYY",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SMCY",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "WNTR",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "AMZY",
+          "exDate": "2025-06-25T19:49:40.245056+09:00",
+          "payDate": "2025-06-26T19:49:40.245056+09:00",
+          "declareDate": "2025-06-24T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "WNTR",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "AIYY",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SMCY",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "AMZY",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "DISO",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YQQQ",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "XYZY",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "APLY",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "MSTY",
+          "exDate": "2025-07-23T19:49:40.245056+09:00",
+          "payDate": "2025-07-24T19:49:40.245056+09:00",
+          "declareDate": "2025-07-22T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupD",
+          "frequency": "weekly"
+        }
+      ]
+    },
+    {
+      "group": "GroupB",
+      "frequency": "weekly",
+      "etfs": [
+        "JPMO",
+        "GDXY",
+        "NVDY",
+        "MARO",
+        "MRNY",
+        "PLTY",
+        "BABO",
+        "DIPS",
+        "FBY"
+      ],
+      "nextExDate": "2025-07-09",
+      "nextPayDate": "2025-07-10",
+      "events": [
+        {
+          "symbol": "GDXY",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "MARO",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "NVDY",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "PLTY",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "BABO",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "DIPS",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "MRNY",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FBY",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "JPMO",
+          "exDate": "2025-07-09T19:49:40.245056+09:00",
+          "payDate": "2025-07-10T19:49:40.245056+09:00",
+          "declareDate": "2025-07-08T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupB",
+          "frequency": "weekly"
+        }
+      ]
+    },
+    {
+      "group": "Weekly",
+      "frequency": "weekly",
+      "etfs": [
+        "RDTY",
+        "CHPY",
+        "GPTY",
+        "SDTY",
+        "QDTY",
+        "ULTY",
+        "YMAG",
+        "LFGY",
+        "YMAX"
+      ],
+      "nextExDate": "2025-06-12",
+      "nextPayDate": "2025-06-13",
+      "events": [
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-06-12T19:49:40.245056+09:00",
+          "payDate": "2025-06-13T19:49:40.245056+09:00",
+          "declareDate": "2025-06-11T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-06-19T19:49:40.245056+09:00",
+          "payDate": "2025-06-20T19:49:40.245056+09:00",
+          "declareDate": "2025-06-18T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-06-26T19:49:40.245056+09:00",
+          "payDate": "2025-06-27T19:49:40.245056+09:00",
+          "declareDate": "2025-06-25T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-07-03T19:49:40.245056+09:00",
+          "payDate": "2025-07-04T19:49:40.245056+09:00",
+          "declareDate": "2025-07-02T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-07-10T19:49:40.245056+09:00",
+          "payDate": "2025-07-11T19:49:40.245056+09:00",
+          "declareDate": "2025-07-09T19:49:40.245056+09:00",
+          "amount": 0.18,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-07-17T19:49:40.245056+09:00",
+          "payDate": "2025-07-18T19:49:40.245056+09:00",
+          "declareDate": "2025-07-16T19:49:40.245056+09:00",
+          "amount": 0.195,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-07-24T19:49:40.245056+09:00",
+          "payDate": "2025-07-25T19:49:40.245056+09:00",
+          "declareDate": "2025-07-23T19:49:40.245056+09:00",
+          "amount": 0.21,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SDTY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "QDTY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "LFGY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ULTY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAG",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YMAX",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "RDTY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CHPY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GPTY",
+          "exDate": "2025-07-31T19:49:40.245056+09:00",
+          "payDate": "2025-08-01T19:49:40.245056+09:00",
+          "declareDate": "2025-07-30T19:49:40.245056+09:00",
+          "amount": 0.22499999999999998,
+          "group": "Weekly",
+          "frequency": "weekly"
+        }
+      ]
+    },
+    {
+      "group": "Target12",
+      "frequency": "monthly",
+      "etfs": [
+        "BIGY",
+        "KLIP",
+        "ALTY",
+        "SOXY",
+        "RNTY"
+      ],
+      "nextExDate": "2025-07-02",
+      "nextPayDate": "2025-07-04",
+      "events": [
+        {
+          "symbol": "BIGY",
+          "exDate": "2025-07-02T00:00:00+09:00",
+          "payDate": "2025-07-04T00:00:00+09:00",
+          "declareDate": "2025-07-01T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "BIGY",
+          "exDate": "2025-08-06T00:00:00+09:00",
+          "payDate": "2025-08-08T00:00:00+09:00",
+          "declareDate": "2025-08-05T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "BIGY",
+          "exDate": "2025-09-03T00:00:00+09:00",
+          "payDate": "2025-09-05T00:00:00+09:00",
+          "declareDate": "2025-09-02T00:00:00+09:00",
+          "amount": 0.25,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "BIGY",
+          "exDate": "2025-10-01T00:00:00+09:00",
+          "payDate": "2025-10-03T00:00:00+09:00",
+          "declareDate": "2025-09-30T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "BIGY",
+          "exDate": "2025-11-05T00:00:00+09:00",
+          "payDate": "2025-11-07T00:00:00+09:00",
+          "declareDate": "2025-11-04T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "SOXY",
+          "exDate": "2025-07-02T00:00:00+09:00",
+          "payDate": "2025-07-04T00:00:00+09:00",
+          "declareDate": "2025-07-01T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "SOXY",
+          "exDate": "2025-08-06T00:00:00+09:00",
+          "payDate": "2025-08-08T00:00:00+09:00",
+          "declareDate": "2025-08-05T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "SOXY",
+          "exDate": "2025-09-03T00:00:00+09:00",
+          "payDate": "2025-09-05T00:00:00+09:00",
+          "declareDate": "2025-09-02T00:00:00+09:00",
+          "amount": 0.25,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "SOXY",
+          "exDate": "2025-10-01T00:00:00+09:00",
+          "payDate": "2025-10-03T00:00:00+09:00",
+          "declareDate": "2025-09-30T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "SOXY",
+          "exDate": "2025-11-05T00:00:00+09:00",
+          "payDate": "2025-11-07T00:00:00+09:00",
+          "declareDate": "2025-11-04T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "RNTY",
+          "exDate": "2025-07-02T00:00:00+09:00",
+          "payDate": "2025-07-04T00:00:00+09:00",
+          "declareDate": "2025-07-01T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "RNTY",
+          "exDate": "2025-08-06T00:00:00+09:00",
+          "payDate": "2025-08-08T00:00:00+09:00",
+          "declareDate": "2025-08-05T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "RNTY",
+          "exDate": "2025-09-03T00:00:00+09:00",
+          "payDate": "2025-09-05T00:00:00+09:00",
+          "declareDate": "2025-09-02T00:00:00+09:00",
+          "amount": 0.25,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "RNTY",
+          "exDate": "2025-10-01T00:00:00+09:00",
+          "payDate": "2025-10-03T00:00:00+09:00",
+          "declareDate": "2025-09-30T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "RNTY",
+          "exDate": "2025-11-05T00:00:00+09:00",
+          "payDate": "2025-11-07T00:00:00+09:00",
+          "declareDate": "2025-11-04T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "KLIP",
+          "exDate": "2025-07-02T00:00:00+09:00",
+          "payDate": "2025-07-04T00:00:00+09:00",
+          "declareDate": "2025-07-01T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "KLIP",
+          "exDate": "2025-08-06T00:00:00+09:00",
+          "payDate": "2025-08-08T00:00:00+09:00",
+          "declareDate": "2025-08-05T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "KLIP",
+          "exDate": "2025-09-03T00:00:00+09:00",
+          "payDate": "2025-09-05T00:00:00+09:00",
+          "declareDate": "2025-09-02T00:00:00+09:00",
+          "amount": 0.25,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "KLIP",
+          "exDate": "2025-10-01T00:00:00+09:00",
+          "payDate": "2025-10-03T00:00:00+09:00",
+          "declareDate": "2025-09-30T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "KLIP",
+          "exDate": "2025-11-05T00:00:00+09:00",
+          "payDate": "2025-11-07T00:00:00+09:00",
+          "declareDate": "2025-11-04T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "ALTY",
+          "exDate": "2025-07-02T00:00:00+09:00",
+          "payDate": "2025-07-04T00:00:00+09:00",
+          "declareDate": "2025-07-01T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "ALTY",
+          "exDate": "2025-08-06T00:00:00+09:00",
+          "payDate": "2025-08-08T00:00:00+09:00",
+          "declareDate": "2025-08-05T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "ALTY",
+          "exDate": "2025-09-03T00:00:00+09:00",
+          "payDate": "2025-09-05T00:00:00+09:00",
+          "declareDate": "2025-09-02T00:00:00+09:00",
+          "amount": 0.25,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "ALTY",
+          "exDate": "2025-10-01T00:00:00+09:00",
+          "payDate": "2025-10-03T00:00:00+09:00",
+          "declareDate": "2025-09-30T00:00:00+09:00",
+          "amount": 0.28,
+          "group": "Target12",
+          "frequency": "monthly"
+        },
+        {
+          "symbol": "ALTY",
+          "exDate": "2025-11-05T00:00:00+09:00",
+          "payDate": "2025-11-07T00:00:00+09:00",
+          "declareDate": "2025-11-04T00:00:00+09:00",
+          "amount": 0.31,
+          "group": "Target12",
+          "frequency": "monthly"
+        }
+      ]
+    },
+    {
+      "group": "GroupA",
+      "frequency": "weekly",
+      "etfs": [
+        "TSMY",
+        "XOMO",
+        "GOOY",
+        "OARK",
+        "FIVY",
+        "CRSH",
+        "FEAT",
+        "SNOY",
+        "TSLY",
+        "BRKC",
+        "YBIT"
+      ],
+      "nextExDate": "2025-07-02",
+      "nextPayDate": "2025-07-03",
+      "events": [
+        {
+          "symbol": "SNOY",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "BRKC",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "TSLY",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YBIT",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GOOY",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "TSMY",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "XOMO",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FIVY",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "OARK",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CRSH",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FEAT",
+          "exDate": "2025-07-02T19:49:40.245056+09:00",
+          "payDate": "2025-07-03T19:49:40.245056+09:00",
+          "declareDate": "2025-07-01T19:49:40.245056+09:00",
+          "amount": 0.15,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FEAT",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "SNOY",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "BRKC",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "TSLY",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "YBIT",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "GOOY",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "TSMY",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "XOMO",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "OARK",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FIVY",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CRSH",
+          "exDate": "2025-07-30T19:49:40.245056+09:00",
+          "payDate": "2025-07-31T19:49:40.245056+09:00",
+          "declareDate": "2025-07-29T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupA",
+          "frequency": "weekly"
+        }
+      ]
+    },
+    {
+      "group": "GroupC",
+      "frequency": "weekly",
+      "etfs": [
+        "AMDY",
+        "NFLY",
+        "CONY",
+        "FIAT",
+        "CVNY",
+        "HOOY",
+        "ABNY",
+        "MSFO",
+        "PYPY"
+      ],
+      "nextExDate": "2025-06-18",
+      "nextPayDate": "2025-06-19",
+      "events": [
+        {
+          "symbol": "ABNY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CVNY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "HOOY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "MSFO",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "PYPY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "AMDY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "NFLY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CONY",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FIAT",
+          "exDate": "2025-06-18T19:49:40.245056+09:00",
+          "payDate": "2025-06-19T19:49:40.245056+09:00",
+          "declareDate": "2025-06-17T19:49:40.245056+09:00",
+          "amount": 0.16999999999999998,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "NFLY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "FIAT",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CONY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "HOOY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "ABNY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "CVNY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "MSFO",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "PYPY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        },
+        {
+          "symbol": "AMDY",
+          "exDate": "2025-07-16T19:49:40.245056+09:00",
+          "payDate": "2025-07-17T19:49:40.245056+09:00",
+          "declareDate": "2025-07-15T19:49:40.245056+09:00",
+          "amount": 0.19,
+          "group": "GroupC",
+          "frequency": "weekly"
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "symbol": "BIGY",
+      "exDate": "2025-07-02T00:00:00+09:00",
+      "payDate": "2025-07-04T00:00:00+09:00",
+      "declareDate": "2025-07-01T00:00:00+09:00",
+      "amount": 0.28,
+      "group": "Target12",
+      "frequency": "monthly"
+    },
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-07-02T00:00:00+09:00",
+      "payDate": "2025-07-04T00:00:00+09:00",
+      "declareDate": "2025-07-01T00:00:00+09:00",
+      "amount": 0.28,
+      "group": "Target12",
+      "frequency": "monthly"
+    },
+    {
+      "symbol": "RNTY",
+      "exDate": "2025-07-02T00:00:00+09:00",
+      "payDate": "2025-07-04T00:00:00+09:00",
+      "declareDate": "2025-07-01T00:00:00+09:00",
+      "amount": 0.28,
+      "group": "Target12",
+      "frequency": "monthly"
+    },
+    {
+      "symbol": "KLIP",
+      "exDate": "2025-07-02T00:00:00+09:00",
+      "payDate": "2025-07-04T00:00:00+09:00",
+      "declareDate": "2025-07-01T00:00:00+09:00",
+      "amount": 0.28,
+      "group": "Target12",
+      "frequency": "monthly"
+    },
+    {
+      "symbol": "ALTY",
+      "exDate": "2025-07-02T00:00:00+09:00",
+      "payDate": "2025-07-04T00:00:00+09:00",
+      "declareDate": "2025-07-01T00:00:00+09:00",
+      "amount": 0.28,
+      "group": "Target12",
+      "frequency": "monthly"
+    },
+    {
+      "symbol": "ABNY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CVNY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "HOOY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "AMDY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-06-18T19:49:40.245056+09:00",
+      "payDate": "2025-06-19T19:49:40.245056+09:00",
+      "declareDate": "2025-06-17T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "DISO",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YQQQ",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "XYZY",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "APLY",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "MSTY",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "AIYY",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SMCY",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "WNTR",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-06-25T19:49:40.245056+09:00",
+      "payDate": "2025-06-26T19:49:40.245056+09:00",
+      "declareDate": "2025-06-24T19:49:40.245056+09:00",
+      "amount": 0.19,
+      "group": "GroupD",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "BRKC",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YBIT",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "FIVY",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "OARK",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSH",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "FEAT",
+      "exDate": "2025-07-02T19:49:40.245056+09:00",
+      "payDate": "2025-07-03T19:49:40.245056+09:00",
+      "declareDate": "2025-07-01T19:49:40.245056+09:00",
+      "amount": 0.15,
+      "group": "GroupA",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "NVDY",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "DIPS",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "MRNY",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "FBY",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-07-09T19:49:40.245056+09:00",
+      "payDate": "2025-07-10T19:49:40.245056+09:00",
+      "declareDate": "2025-07-08T19:49:40.245056+09:00",
+      "amount": 0.16999999999999998,
+      "group": "GroupB",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAX",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "RDTY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CHPY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SDTY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "LFGY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-12T19:49:40.245056+09:00",
+      "payDate": "2025-06-13T19:49:40.245056+09:00",
+      "declareDate": "2025-06-11T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "RDTY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CHPY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SDTY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "LFGY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAX",
+      "exDate": "2025-06-19T19:49:40.245056+09:00",
+      "payDate": "2025-06-20T19:49:40.245056+09:00",
+      "declareDate": "2025-06-18T19:49:40.245056+09:00",
+      "amount": 0.195,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CHPY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SDTY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "LFGY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAX",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "RDTY",
+      "exDate": "2025-06-26T19:49:40.245056+09:00",
+      "payDate": "2025-06-27T19:49:40.245056+09:00",
+      "declareDate": "2025-06-25T19:49:40.245056+09:00",
+      "amount": 0.21,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "RDTY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CHPY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SDTY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "LFGY",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAX",
+      "exDate": "2025-07-03T19:49:40.245056+09:00",
+      "payDate": "2025-07-04T19:49:40.245056+09:00",
+      "declareDate": "2025-07-02T19:49:40.245056+09:00",
+      "amount": 0.22499999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "RDTY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CHPY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "SDTY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "LFGY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "YMAX",
+      "exDate": "2025-07-10T19:49:40.245056+09:00",
+      "payDate": "2025-07-11T19:49:40.245056+09:00",
+      "declareDate": "2025-07-09T19:49:40.245056+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    }
+  ]
+}

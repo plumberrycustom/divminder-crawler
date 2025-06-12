@@ -107,9 +107,9 @@ test_data_quality() {
     fi
     
     # Test schedule data structure
-    if [[ -f "$TEMP_DIR/schedule_v4.json" ]]; then
+    if [[ -f "$TEMP_DIR/schedule_v3.json" ]]; then
         echo -n "Schedule data structure... "
-        if jq -e 'has("groups") and has("events") and (.events | length > 0)' "$TEMP_DIR/schedule_v4.json" >/dev/null 2>&1; then
+        if jq -e 'has("groups") and has("events") and (.events | length > 0)' "$TEMP_DIR/schedule_v3.json" >/dev/null 2>&1; then
             echo -e "${GREEN}✓ PASS${NC}"
             PASSED_TESTS=$((PASSED_TESTS + 1))
         else
@@ -120,9 +120,9 @@ test_data_quality() {
     fi
     
     # Test API summary
-    if [[ -f "$TEMP_DIR/api_summary_v4.json" ]]; then
+    if [[ -f "$TEMP_DIR/api_summary_v3.json" ]]; then
         echo -n "API summary structure... "
-        if jq -e 'has("timestamp") and has("data_sources") and has("statistics")' "$TEMP_DIR/api_summary_v4.json" >/dev/null 2>&1; then
+        if jq -e 'has("timestamp") and has("data_sources") and has("statistics")' "$TEMP_DIR/api_summary_v3.json" >/dev/null 2>&1; then
             echo -e "${GREEN}✓ PASS${NC}"
             PASSED_TESTS=$((PASSED_TESTS + 1))
         else
@@ -188,8 +188,8 @@ echo "================="
 # Core API endpoints
 test_endpoint "etfs.json" "ETF List" "array" 1000
 test_endpoint "etfs_enriched.json" "Enriched ETF List" "array" 1000
-test_endpoint "schedule_v4.json" "Dividend Schedule" "object" 1000
-test_endpoint "api_summary_v4.json" "API Summary" "object" 500
+test_endpoint "schedule_v3.json" "Dividend Schedule" "object" 1000
+test_endpoint "api_summary_v3.json" "API Summary" "object" 500
 
 # Priority ETF dividend histories
 priority_etfs=("TSLY" "OARK" "APLY" "NVDY" "AMZY")

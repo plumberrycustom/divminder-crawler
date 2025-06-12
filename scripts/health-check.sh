@@ -7,7 +7,7 @@ set -e
 
 # Configuration
 BASE_URL="${1:-https://plumberrycustom.github.io/divminder-crawler}"
-TIMEOUT=10
+TIMEOUT=30
 
 # Colors
 RED='\033[0;31m'
@@ -38,8 +38,8 @@ health_check() {
 
 # Core endpoints
 health_check "etfs.json" "ETF List"
-health_check "schedule_v4.json" "Schedule"
-health_check "api_summary_v4.json" "Summary"
+health_check "schedule_v3.json" "Schedule"
+health_check "api_summary_v3.json" "Summary"
 
 # Check one dividend file
 health_check "dividends_TSLY.json" "TSLY History"

@@ -1,0 +1,96 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'data/**' ]
+  workflow_dispatch:
+
+# GitHub Pages 배포를 위한 권한 설정
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 동시 배포 방지
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+      
+    - name: Create Pages structure
+      run: |
+        mkdir -p _site
+        cp -r data/* _site/
+        
+        # Create simple index.html
+        cat > _site/index.html << 'EOF'
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>DivMinder API</title>
+            <meta charset="UTF-8">
+        </head>
+        <body>
+            <h1>DivMinder API</h1>
+            <p>YieldMax ETF dividend data API</p>
+            <ul>
+                <li><a href="etfs.json">ETF List</a></li>
+                <li><a href="schedule_v4.json">Dividend Schedule</a></li>
+                <li><a href="api_summary_v4.json">API Summary</a></li>
+            </ul>
+        </body>
+        </html>
+        EOF
+        
+        echo "Generated Pages structure:"
+        ls -la _site/
+        
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: '_site'
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
+      
+    - name: Create deployment summary
+      run: |
+        echo "## 🚀 GitHub Pages Deployment Successful" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Deployment URL:** ${{ steps.deployment.outputs.page_url }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Timestamp:** $(date '+%Y-%m-%d %H:%M:%S KST')" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        echo "### 📊 Available Endpoints" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        base_url="${{ steps.deployment.outputs.page_url }}"
+        echo "- [ETF List](${base_url}etfs.json)" >> $GITHUB_STEP_SUMMARY
+        echo "- [Enriched ETFs](${base_url}etfs_enriched.json)" >> $GITHUB_STEP_SUMMARY
+        echo "- [Schedule](${base_url}schedule_v4.json)" >> $GITHUB_STEP_SUMMARY
+        echo "- [API Summary](${base_url}api_summary_v4.json)" >> $GITHUB_STEP_SUMMARY
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📁 Deployed Files" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        file_count=$(ls _site/*.json 2>/dev/null | wc -l)
+        echo "- **JSON Files:** $file_count" >> $GITHUB_STEP_SUMMARY
+        
+        total_size=$(du -sh _site/ | cut -f1)
+        echo "- **Total Size:** $total_size" >> $GITHUB_STEP_SUMMARY 

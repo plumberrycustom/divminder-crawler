@@ -359,84 +359,8 @@ func (ys *ImprovedYieldMaxScraper) parseDate(dateStr string) time.Time {
 func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.DividendEvent) {
 	now := time.Now()
 
-	// Complete YieldMax ETF list with proper groupings
-	yieldMaxETFs := map[string]string{
-		// Target 12 ETFs (월 배당)
-		"BIGY": "Target12",
-		"SOXY": "Target12",
-		"RNTY": "Target12",
-		"KLIP": "Target12",
-		"ALTY": "Target12",
-
-		// Weekly Payers (주간 배당)
-		"CHPY": "Weekly",
-		"GPTY": "Weekly",
-		"LFGY": "Weekly",
-		"QDTY": "Weekly",
-		"RDTY": "Weekly",
-		"SDTY": "Weekly",
-		"ULTY": "Weekly",
-		"YMAG": "Weekly",
-		"YMAX": "Weekly",
-
-		// Group A ETFs
-		"TSLY": "GroupA",
-		"NVDY": "GroupA",
-		"MSTY": "GroupA",
-		"OARK": "GroupA",
-		"AMDY": "GroupA",
-		"GOOY": "GroupA",
-		"JPMO": "GroupA",
-		"MRNY": "GroupA",
-		"SNOY": "GroupA",
-		"TSMY": "GroupA",
-		"APLY": "GroupA",
-
-		// Group B ETFs
-		"AMZY": "GroupB",
-		"CONY": "GroupB",
-		"FBY":  "GroupB",
-		"NFLY": "GroupB",
-		"QQLY": "GroupB",
-		"AIPY": "GroupB",
-		"BABO": "GroupB",
-		"DISO": "GroupB",
-		"MSFO": "GroupB",
-		"PYPY": "GroupB",
-		"SQY":  "GroupB",
-		"XOMO": "GroupB",
-
-		// Group C ETFs
-		"AIYY": "GroupC",
-		"BALY": "GroupC",
-		"COWY": "GroupC",
-		"CRSY": "GroupC",
-		"FIAT": "GroupC",
-		"GPIY": "GroupC",
-		"INTY": "GroupC",
-		"JEPY": "GroupC",
-		"KODY": "GroupC",
-		"NETY": "GroupC",
-		"PLTY": "GroupC",
-		"SPYY": "GroupC",
-		"WUGI": "GroupC",
-
-		// Group D ETFs
-		"ABNY":  "GroupD",
-		"AFRM":  "GroupD",
-		"BKSY":  "GroupD",
-		"BOLDY": "GroupD",
-		"CVY":   "GroupD",
-		"DFLY":  "GroupD",
-		"DSNY":  "GroupD",
-		"GDXY":  "GroupD",
-		"HPAY":  "GroupD",
-		"JETY":  "GroupD",
-		"LCID":  "GroupD",
-		"MARO":  "GroupD",
-		"MRSY":  "GroupD",
-		"PEY":   "GroupD",
-	}
+	// Get correct ETF groupings
+	yieldMaxETFs := GetYieldMaxETFGroups()
 
 	// Add all ETFs to the group mapping
 	for symbol, group := range yieldMaxETFs {
@@ -553,6 +477,11 @@ func (ys *ImprovedYieldMaxScraper) getETFsForGroup(targetGroup string) ([]string
 // GetImprovedETFList returns a comprehensive list of YieldMax ETFs with proper metadata
 func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 	var etfs []models.ETF
+	
+	// Get correct ETF groupings first
+	if len(ys.etfGroups) == 0 {
+		ys.etfGroups = GetYieldMaxETFGroups()
+	}
 
 	// Comprehensive ETF data with full names
 	etfData := map[string]struct {
@@ -651,16 +580,89 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 			frequency = "weekly"
 		}
 
+		// Calculate next dividend dates based on group and current date
+		nextExDate, nextPayDate := ys.calculateNextDividendDates(symbol, group, frequency)
+		
 		etf := models.ETF{
 			Symbol:      symbol,
 			Name:        data.Name,
 			Description: data.Description,
 			Group:       group,
 			Frequency:   frequency,
+			NextExDate:  nextExDate,
+			NextPayDate: nextPayDate,
 		}
 		etfs = append(etfs, etf)
 	}
 
 	ys.logger.Infof("Generated comprehensive list of %d YieldMax ETFs", len(etfs))
 	return etfs, nil
+}
+
+// calculateNextDividendDates calculates the next ex-date and pay-date for an ETF
+func (ys *ImprovedYieldMaxScraper) calculateNextDividendDates(symbol, group, frequency string) (string, string) {
+	now := time.Now()
+	
+	switch group {
+	case "Target12":
+		// Target 12 ETFs pay on first Wednesday of each month
+		nextDate := now
+		if nextDate.Day() > 7 { // Already past first week of current month
+			nextDate = nextDate.AddDate(0, 1, 0) // Move to next month
+		}
+		// Find first Wednesday of the month
+		firstOfMonth := time.Date(nextDate.Year(), nextDate.Month(), 1, 0, 0, 0, 0, nextDate.Location())
+		for firstOfMonth.Weekday() != time.Wednesday {
+			firstOfMonth = firstOfMonth.AddDate(0, 0, 1)
+		}
+		return firstOfMonth.Format("2006-01-02"), firstOfMonth.AddDate(0, 0, 2).Format("2006-01-02")
+		
+	case "Weekly":
+		// Weekly payers pay every Thursday
+		nextThursday := now
+		for nextThursday.Weekday() != time.Thursday {
+			nextThursday = nextThursday.AddDate(0, 0, 1)
+		}
+		if nextThursday.Equal(now) || nextThursday.Before(now) {
+			nextThursday = nextThursday.AddDate(0, 0, 7)
+		}
+		return nextThursday.Format("2006-01-02"), nextThursday.AddDate(0, 0, 1).Format("2006-01-02")
+		
+	case "GroupA", "GroupB", "GroupC", "GroupD":
+		// Groups rotate weekly: B -> C -> D -> A
+		rotation := []string{"GroupB", "GroupC", "GroupD", "GroupA"}
+		
+		// Find current week's group
+		baseDate := now
+		for baseDate.Weekday() != time.Wednesday {
+			if baseDate.Weekday() > time.Wednesday {
+				baseDate = baseDate.AddDate(0, 0, 7-int(baseDate.Weekday())+int(time.Wednesday))
+			} else {
+				baseDate = baseDate.AddDate(0, 0, int(time.Wednesday)-int(baseDate.Weekday()))
+			}
+		}
+		
+		// Calculate weeks until this group's turn
+		weeksSinceStart := int(baseDate.Sub(time.Date(2025, 1, 1, 0, 0, 0, 0, baseDate.Location())).Hours() / 24 / 7)
+		currentGroupIndex := weeksSinceStart % 4
+		
+		targetIndex := 0
+		for i, g := range rotation {
+			if g == group {
+				targetIndex = i
+				break
+			}
+		}
+		
+		weeksToWait := (targetIndex - currentGroupIndex + 4) % 4
+		if weeksToWait == 0 && baseDate.Before(now) {
+			weeksToWait = 4 // Next rotation
+		}
+		
+		nextExDate := baseDate.AddDate(0, 0, weeksToWait*7)
+		return nextExDate.Format("2006-01-02"), nextExDate.AddDate(0, 0, 1).Format("2006-01-02")
+		
+	default:
+		return "", ""
+	}
 }

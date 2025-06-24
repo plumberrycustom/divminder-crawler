@@ -299,7 +299,7 @@ func (ys *YieldMaxScraper) determineETFGroup(symbol string) string {
 		"RNTY": "Target12",
 		"KLIP": "Target12",
 		"ALTY": "Target12",
-		
+
 		// Weekly Payers (주간 배당)
 		"CHPY": "Weekly",
 		"GPTY": "Weekly",
@@ -310,7 +310,7 @@ func (ys *YieldMaxScraper) determineETFGroup(symbol string) string {
 		"ULTY": "Weekly",
 		"YMAG": "Weekly",
 		"YMAX": "Weekly",
-		
+
 		// Group A ETFs
 		"TSLY": "GroupA",
 		"NVDY": "GroupA",
@@ -323,7 +323,7 @@ func (ys *YieldMaxScraper) determineETFGroup(symbol string) string {
 		"SNOY": "GroupA",
 		"TSMY": "GroupA",
 		"APLY": "GroupA",
-		
+
 		// Group B ETFs
 		"AMZY": "GroupB",
 		"CONY": "GroupB",
@@ -337,7 +337,7 @@ func (ys *YieldMaxScraper) determineETFGroup(symbol string) string {
 		"PYPY": "GroupB",
 		"SQY":  "GroupB",
 		"XOMO": "GroupB",
-		
+
 		// Group C ETFs
 		"AIYY": "GroupC",
 		"BALY": "GroupC",
@@ -352,7 +352,7 @@ func (ys *YieldMaxScraper) determineETFGroup(symbol string) string {
 		"PLTY": "GroupC",
 		"SPYY": "GroupC",
 		"WUGI": "GroupC",
-		
+
 		// Group D ETFs
 		"ABNY":  "GroupD",
 		"AFRM":  "GroupD",

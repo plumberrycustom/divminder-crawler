@@ -1,0 +1,233 @@
+{
+  "symbol": "CRSY",
+  "name": "YieldMax CRM Option Income Strategy ETF",
+  "group": "GroupC",
+  "frequency": "weekly",
+  "events": [
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-06-23T01:25:38.366721+09:00",
+      "payDate": "2025-06-25T01:25:38.366721+09:00",
+      "declareDate": "2025-06-20T01:25:38.366721+09:00",
+      "amount": 0.132,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-06-16T01:25:38.366721+09:00",
+      "payDate": "2025-06-18T01:25:38.366721+09:00",
+      "declareDate": "2025-06-13T01:25:38.366721+09:00",
+      "amount": 0.141,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-06-09T01:25:38.366721+09:00",
+      "payDate": "2025-06-11T01:25:38.366721+09:00",
+      "declareDate": "2025-06-06T01:25:38.366721+09:00",
+      "amount": 0.15,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-06-02T01:25:38.366721+09:00",
+      "payDate": "2025-06-04T01:25:38.366721+09:00",
+      "declareDate": "2025-05-30T01:25:38.366721+09:00",
+      "amount": 0.159,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-05-26T01:25:38.366721+09:00",
+      "payDate": "2025-05-28T01:25:38.366721+09:00",
+      "declareDate": "2025-05-23T01:25:38.366721+09:00",
+      "amount": 0.16799999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-05-19T01:25:38.366721+09:00",
+      "payDate": "2025-05-21T01:25:38.366721+09:00",
+      "declareDate": "2025-05-16T01:25:38.366721+09:00",
+      "amount": 0.132,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-05-12T01:25:38.366721+09:00",
+      "payDate": "2025-05-14T01:25:38.366721+09:00",
+      "declareDate": "2025-05-09T01:25:38.366721+09:00",
+      "amount": 0.141,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-05-05T01:25:38.366721+09:00",
+      "payDate": "2025-05-07T01:25:38.366721+09:00",
+      "declareDate": "2025-05-02T01:25:38.366721+09:00",
+      "amount": 0.15,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-04-28T01:25:38.366721+09:00",
+      "payDate": "2025-04-30T01:25:38.366721+09:00",
+      "declareDate": "2025-04-25T01:25:38.366721+09:00",
+      "amount": 0.159,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-04-21T01:25:38.366721+09:00",
+      "payDate": "2025-04-23T01:25:38.366721+09:00",
+      "declareDate": "2025-04-18T01:25:38.366721+09:00",
+      "amount": 0.16799999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-04-14T01:25:38.366721+09:00",
+      "payDate": "2025-04-16T01:25:38.366721+09:00",
+      "declareDate": "2025-04-11T01:25:38.366721+09:00",
+      "amount": 0.132,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-04-07T01:25:38.366721+09:00",
+      "payDate": "2025-04-09T01:25:38.366721+09:00",
+      "declareDate": "2025-04-04T01:25:38.366721+09:00",
+      "amount": 0.141,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-03-31T01:25:38.366721+09:00",
+      "payDate": "2025-04-02T01:25:38.366721+09:00",
+      "declareDate": "2025-03-28T01:25:38.366721+09:00",
+      "amount": 0.15,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-03-24T01:25:38.366721+09:00",
+      "payDate": "2025-03-26T01:25:38.366721+09:00",
+      "declareDate": "2025-03-21T01:25:38.366721+09:00",
+      "amount": 0.159,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-03-17T01:25:38.366721+09:00",
+      "payDate": "2025-03-19T01:25:38.366721+09:00",
+      "declareDate": "2025-03-14T01:25:38.366721+09:00",
+      "amount": 0.16799999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-03-10T01:25:38.366721+09:00",
+      "payDate": "2025-03-12T01:25:38.366721+09:00",
+      "declareDate": "2025-03-07T01:25:38.366721+09:00",
+      "amount": 0.132,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-03-03T01:25:38.366721+09:00",
+      "payDate": "2025-03-05T01:25:38.366721+09:00",
+      "declareDate": "2025-02-28T01:25:38.366721+09:00",
+      "amount": 0.141,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-02-24T01:25:38.366721+09:00",
+      "payDate": "2025-02-26T01:25:38.366721+09:00",
+      "declareDate": "2025-02-21T01:25:38.366721+09:00",
+      "amount": 0.15,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-02-17T01:25:38.366721+09:00",
+      "payDate": "2025-02-19T01:25:38.366721+09:00",
+      "declareDate": "2025-02-14T01:25:38.366721+09:00",
+      "amount": 0.159,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-02-10T01:25:38.366721+09:00",
+      "payDate": "2025-02-12T01:25:38.366721+09:00",
+      "declareDate": "2025-02-07T01:25:38.366721+09:00",
+      "amount": 0.16799999999999998,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-02-03T01:25:38.366721+09:00",
+      "payDate": "2025-02-05T01:25:38.366721+09:00",
+      "declareDate": "2025-01-31T01:25:38.366721+09:00",
+      "amount": 0.132,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-01-27T01:25:38.366721+09:00",
+      "payDate": "2025-01-29T01:25:38.366721+09:00",
+      "declareDate": "2025-01-24T01:25:38.366721+09:00",
+      "amount": 0.141,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-01-20T01:25:38.366721+09:00",
+      "payDate": "2025-01-22T01:25:38.366721+09:00",
+      "declareDate": "2025-01-17T01:25:38.366721+09:00",
+      "amount": 0.15,
+      "group": "GroupC",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "CRSY",
+      "exDate": "2025-01-13T01:25:38.366721+09:00",
+      "payDate": "2025-01-15T01:25:38.366721+09:00",
+      "declareDate": "2025-01-10T01:25:38.366721+09:00",
+      "amount": 0.159,
+      "group": "GroupC",
+      "frequency": "weekly"
+    }
+  ],
+  "stats": {
+    "totalPayments": 24,
+    "averageAmount": 0.14924999999999997,
+    "lastAmount": 0.132,
+    "yearToDateTotal": 3.5819999999999994,
+    "trailingYearTotal": 3.5819999999999994,
+    "changePercent": -6.382978723404243
+  },
+  "updatedAt": "2025-06-25T01:25:38.366721+09:00"
+}

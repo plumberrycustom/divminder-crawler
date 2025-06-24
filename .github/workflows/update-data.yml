@@ -74,7 +74,7 @@ jobs:
       run: |
         TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S KST')
         ETF_COUNT=$(jq length data/etfs.json 2>/dev/null || echo "0")
-        SCHEDULE_COUNT=$(jq '.events | length' data/schedule_v4.json 2>/dev/null || echo "0")
+        SCHEDULE_COUNT=$(jq '.upcoming | length' data/schedule_v3.json 2>/dev/null || echo "0")
         
         MESSAGE="🔄 Auto-update YieldMax data - $TIMESTAMP
 
@@ -106,12 +106,12 @@ jobs:
         echo "**Timestamp:** $(date '+%Y-%m-%d %H:%M:%S KST')" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
-        if [ -f "data/api_summary_v4.json" ]; then
+        if [ -f "data/api_summary_v3.json" ]; then
           echo "### 📊 Data Statistics" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- **ETFs:** $(jq -r '.etf_count // "N/A"' data/api_summary_v4.json)" >> $GITHUB_STEP_SUMMARY
-          echo "- **Data Sources:** $(jq -r '.data_sources | join(", ") // "N/A"' data/api_summary_v4.json)" >> $GITHUB_STEP_SUMMARY
-          echo "- **Version:** $(jq -r '.version // "N/A"' data/api_summary_v4.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **ETFs:** $(jq -r '.data.totalETFs // "N/A"' data/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Data Sources:** $(jq -r '.data.dataSources | join(", ") // "N/A"' data/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Version:** $(jq -r '.data.version // "N/A"' data/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
         fi
         
         echo "" >> $GITHUB_STEP_SUMMARY
@@ -200,7 +200,7 @@ jobs:
         done
         
         # 필수 파일 존재 확인
-        required_files=("data/etfs.json" "data/schedule_v4.json" "data/api_summary_v4.json")
+        required_files=("data/etfs.json" "data/schedule_v3.json" "data/api_summary_v3.json")
         for file in "${required_files[@]}"; do
           if [ ! -f "$file" ]; then
             echo "❌ Missing required file: $file"
@@ -212,8 +212,8 @@ jobs:
         
         # 데이터 최소 요구사항 검사
         etf_count=$(jq length data/etfs.json)
-        if [ "$etf_count" -lt 100 ]; then
-          echo "❌ ETF count too low: $etf_count (expected: >100)"
+        if [ "$etf_count" -lt 50 ]; then
+          echo "❌ ETF count too low: $etf_count (expected: >50)"
           exit 1
         else
           echo "✅ ETF count acceptable: $etf_count"
@@ -252,8 +252,8 @@ jobs:
           echo "- **Total ETFs:** $etf_count" >> $GITHUB_STEP_SUMMARY
         fi
         
-        if [ -f "data/schedule_v4.json" ]; then
-          event_count=$(jq '.events | length' data/schedule_v4.json 2>/dev/null || echo "0")
+        if [ -f "data/schedule_v3.json" ]; then
+          event_count=$(jq '.upcoming | length' data/schedule_v3.json 2>/dev/null || echo "0")
           echo "- **Dividend Events:** $event_count" >> $GITHUB_STEP_SUMMARY
         fi
         

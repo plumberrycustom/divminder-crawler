@@ -373,7 +373,7 @@ func generateBasicETFList() []models.ETF {
 		{"RNTY", "YieldMax Tech Innovators Target 12 ETF", "Target12", "monthly"},
 		{"KLIP", "YieldMax ESG Target 12 ETF", "Target12", "monthly"},
 		{"ALTY", "YieldMax Alternative Energy Target 12 ETF", "Target12", "monthly"},
-		
+
 		// Weekly Payers
 		{"CHPY", "YieldMax Healthcare Weekly Payer ETF", "Weekly", "weekly"},
 		{"GPTY", "YieldMax Gaming & Entertainment Weekly ETF", "Weekly", "weekly"},
@@ -384,26 +384,26 @@ func generateBasicETFList() []models.ETF {
 		{"ULTY", "YieldMax Utilities Weekly ETF", "Weekly", "weekly"},
 		{"YMAG", "YieldMax Magnificent 7 Weekly ETF", "Weekly", "weekly"},
 		{"YMAX", "YieldMax Universe Weekly ETF", "Weekly", "weekly"},
-		
+
 		// Group A ETFs
 		{"TSLY", "YieldMax TSLA Option Income Strategy ETF", "GroupA", "weekly"},
 		{"NVDY", "YieldMax NVDA Option Income Strategy ETF", "GroupA", "weekly"},
 		{"MSTY", "YieldMax MSTR Option Income Strategy ETF", "GroupA", "weekly"},
 		{"OARK", "YieldMax ARKK Option Income Strategy ETF", "GroupA", "weekly"},
 		{"APLY", "YieldMax AAPL Option Income Strategy ETF", "GroupA", "weekly"},
-		
+
 		// Group B ETFs
 		{"AMZY", "YieldMax AMZN Option Income Strategy ETF", "GroupB", "weekly"},
 		{"CONY", "YieldMax COIN Option Income Strategy ETF", "GroupB", "weekly"},
 		{"FBY", "YieldMax META Option Income Strategy ETF", "GroupB", "weekly"},
 		{"NFLY", "YieldMax NFLX Option Income Strategy ETF", "GroupB", "weekly"},
 		{"MSFO", "YieldMax MSFT Option Income Strategy ETF", "GroupB", "weekly"},
-		
+
 		// Group C ETFs
 		{"PLTY", "YieldMax PLTR Option Income Strategy ETF", "GroupC", "weekly"},
 		{"SPYY", "YieldMax S&P 500 Option Income ETF", "GroupC", "weekly"},
 		{"INTY", "YieldMax INTC Option Income Strategy ETF", "GroupC", "weekly"},
-		
+
 		// Group D ETFs
 		{"GDXY", "YieldMax Gold Miners Option Income ETF", "GroupD", "weekly"},
 		{"LCID", "YieldMax LCID Option Income Strategy ETF", "GroupD", "weekly"},

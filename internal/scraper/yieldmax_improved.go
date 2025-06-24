@@ -367,7 +367,7 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		"RNTY": "Target12",
 		"KLIP": "Target12",
 		"ALTY": "Target12",
-		
+
 		// Weekly Payers (주간 배당)
 		"CHPY": "Weekly",
 		"GPTY": "Weekly",
@@ -378,7 +378,7 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		"ULTY": "Weekly",
 		"YMAG": "Weekly",
 		"YMAX": "Weekly",
-		
+
 		// Group A ETFs
 		"TSLY": "GroupA",
 		"NVDY": "GroupA",
@@ -391,11 +391,11 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		"SNOY": "GroupA",
 		"TSMY": "GroupA",
 		"APLY": "GroupA",
-		
+
 		// Group B ETFs
 		"AMZY": "GroupB",
 		"CONY": "GroupB",
-		"FBY": "GroupB",
+		"FBY":  "GroupB",
 		"NFLY": "GroupB",
 		"QQLY": "GroupB",
 		"AIPY": "GroupB",
@@ -403,9 +403,9 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		"DISO": "GroupB",
 		"MSFO": "GroupB",
 		"PYPY": "GroupB",
-		"SQY": "GroupB",
+		"SQY":  "GroupB",
 		"XOMO": "GroupB",
-		
+
 		// Group C ETFs
 		"AIYY": "GroupC",
 		"BALY": "GroupC",
@@ -420,22 +420,22 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		"PLTY": "GroupC",
 		"SPYY": "GroupC",
 		"WUGI": "GroupC",
-		
+
 		// Group D ETFs
-		"ABNY": "GroupD",
-		"AFRM": "GroupD",
-		"BKSY": "GroupD",
+		"ABNY":  "GroupD",
+		"AFRM":  "GroupD",
+		"BKSY":  "GroupD",
 		"BOLDY": "GroupD",
-		"CVY": "GroupD",
-		"DFLY": "GroupD",
-		"DSNY": "GroupD",
-		"GDXY": "GroupD",
-		"HPAY": "GroupD",
-		"JETY": "GroupD",
-		"LCID": "GroupD",
-		"MARO": "GroupD",
-		"MRSY": "GroupD",
-		"PEY": "GroupD",
+		"CVY":   "GroupD",
+		"DFLY":  "GroupD",
+		"DSNY":  "GroupD",
+		"GDXY":  "GroupD",
+		"HPAY":  "GroupD",
+		"JETY":  "GroupD",
+		"LCID":  "GroupD",
+		"MARO":  "GroupD",
+		"MRSY":  "GroupD",
+		"PEY":   "GroupD",
 	}
 
 	// Add all ETFs to the group mapping
@@ -450,7 +450,7 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 			target12ETFs = append(target12ETFs, symbol)
 		}
 	}
-	
+
 	for _, symbol := range target12ETFs {
 		for monthOffset := 0; monthOffset < 6; monthOffset++ {
 			// First Wednesday of each month
@@ -565,7 +565,7 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 		"RNTY": {"YieldMax Tech Innovators Target 12 ETF", "Focuses on tech innovation with 12% target yield"},
 		"KLIP": {"YieldMax ESG Target 12 ETF", "ESG-focused strategy with 12% income target"},
 		"ALTY": {"YieldMax Alternative Energy Target 12 ETF", "Alternative energy focus with 12% target yield"},
-		
+
 		// Weekly Payers
 		"CHPY": {"YieldMax Healthcare Weekly Payer ETF", "Weekly income from healthcare sector"},
 		"GPTY": {"YieldMax Gaming & Entertainment Weekly ETF", "Weekly distributions from gaming/entertainment"},
@@ -576,7 +576,7 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 		"ULTY": {"YieldMax Utilities Weekly ETF", "Weekly distributions from utility sector"},
 		"YMAG": {"YieldMax Magnificent 7 Weekly ETF", "Weekly income from top tech giants"},
 		"YMAX": {"YieldMax Universe Weekly ETF", "Broad market weekly income strategy"},
-		
+
 		// Group A ETFs
 		"TSLY": {"YieldMax TSLA Option Income Strategy ETF", "Monthly income from TSLA covered calls"},
 		"NVDY": {"YieldMax NVDA Option Income Strategy ETF", "Monthly income from NVDA options"},
@@ -589,7 +589,7 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 		"SNOY": {"YieldMax SNOW Option Income Strategy ETF", "Monthly income from SNOW covered calls"},
 		"TSMY": {"YieldMax TSM Option Income Strategy ETF", "Monthly income from TSM options"},
 		"APLY": {"YieldMax AAPL Option Income Strategy ETF", "Monthly income from AAPL covered calls"},
-		
+
 		// Group B ETFs
 		"AMZY": {"YieldMax AMZN Option Income Strategy ETF", "Monthly income from AMZN covered calls"},
 		"CONY": {"YieldMax COIN Option Income Strategy ETF", "Monthly income from COIN options"},
@@ -603,7 +603,7 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 		"PYPY": {"YieldMax PYPL Option Income Strategy ETF", "Monthly income from PYPL covered calls"},
 		"SQY":  {"YieldMax SQ Option Income Strategy ETF", "Monthly income from SQ options"},
 		"XOMO": {"YieldMax XOM Option Income Strategy ETF", "Monthly income from XOM covered calls"},
-		
+
 		// Group C ETFs
 		"AIYY": {"YieldMax AI Option Income Strategy ETF", "Monthly income from AI stocks"},
 		"BALY": {"YieldMax BAC Option Income Strategy ETF", "Monthly income from BAC options"},
@@ -618,7 +618,7 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 		"PLTY": {"YieldMax PLTR Option Income Strategy ETF", "Monthly income from PLTR covered calls"},
 		"SPYY": {"YieldMax S&P 500 Option Income ETF", "Monthly income from SPY options"},
 		"WUGI": {"YieldMax Growth & Income ETF", "Balanced growth and income strategy"},
-		
+
 		// Group D ETFs
 		"ABNY":  {"YieldMax ABNB Option Income Strategy ETF", "Monthly income from ABNB options"},
 		"AFRM":  {"YieldMax AFRM Option Income Strategy ETF", "Monthly income from AFRM covered calls"},
@@ -641,7 +641,7 @@ func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
 	for symbol, data := range etfData {
 		group := ys.etfGroups[symbol]
 		frequency := "weekly"
-		
+
 		if group == "Target12" {
 			frequency = "monthly"
 		} else if group == "Weekly" {

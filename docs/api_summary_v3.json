@@ -23,21 +23,21 @@
       "JSON API for mobile apps"
     ],
     "groups": {
-      "GroupA": 137,
-      "GroupB": 0,
-      "GroupC": 0,
-      "GroupD": 0,
-      "Target12": 3,
+      "GroupA": 11,
+      "GroupB": 12,
+      "GroupC": 13,
+      "GroupD": 14,
+      "Target12": 5,
       "Weekly": 9
     },
-    "lastUpdated": "2025-06-12T14:32:12+09:00",
-    "nextUpdate": "2025-06-13T14:32:10+09:00",
+    "lastUpdated": "2025-06-25T01:25:38+09:00",
+    "nextUpdate": "2025-06-26T01:25:38+09:00",
     "status": "operational",
-    "totalETFs": 149,
+    "totalETFs": 65,
     "totalGroups": 6,
-    "upcomingEvents": 79,
+    "upcomingEvents": 100,
     "updateFrequency": "Daily at 00:05 KST",
     "version": "3.0.0"
   },
-  "timestamp": "2025-06-12T14:32:12.391865+09:00"
+  "timestamp": "2025-06-25T01:25:38.368082+09:00"
 }

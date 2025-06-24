@@ -1,0 +1,125 @@
+{
+  "symbol": "GPTY",
+  "name": "YieldMax Gaming \u0026 Entertainment Weekly ETF",
+  "group": "Weekly",
+  "frequency": "weekly",
+  "events": [
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-23T01:11:56.39279+09:00",
+      "payDate": "2025-06-25T01:11:56.39279+09:00",
+      "declareDate": "2025-06-20T01:11:56.39279+09:00",
+      "amount": 0.153,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-16T01:11:56.39279+09:00",
+      "payDate": "2025-06-18T01:11:56.39279+09:00",
+      "declareDate": "2025-06-13T01:11:56.39279+09:00",
+      "amount": 0.16649999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-09T01:11:56.39279+09:00",
+      "payDate": "2025-06-11T01:11:56.39279+09:00",
+      "declareDate": "2025-06-06T01:11:56.39279+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-02T01:11:56.39279+09:00",
+      "payDate": "2025-06-04T01:11:56.39279+09:00",
+      "declareDate": "2025-05-30T01:11:56.39279+09:00",
+      "amount": 0.1935,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-26T01:11:56.39279+09:00",
+      "payDate": "2025-05-28T01:11:56.39279+09:00",
+      "declareDate": "2025-05-23T01:11:56.39279+09:00",
+      "amount": 0.207,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-19T01:11:56.39279+09:00",
+      "payDate": "2025-05-21T01:11:56.39279+09:00",
+      "declareDate": "2025-05-16T01:11:56.39279+09:00",
+      "amount": 0.153,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-12T01:11:56.39279+09:00",
+      "payDate": "2025-05-14T01:11:56.39279+09:00",
+      "declareDate": "2025-05-09T01:11:56.39279+09:00",
+      "amount": 0.16649999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-05T01:11:56.39279+09:00",
+      "payDate": "2025-05-07T01:11:56.39279+09:00",
+      "declareDate": "2025-05-02T01:11:56.39279+09:00",
+      "amount": 0.18,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-28T01:11:56.39279+09:00",
+      "payDate": "2025-04-30T01:11:56.39279+09:00",
+      "declareDate": "2025-04-25T01:11:56.39279+09:00",
+      "amount": 0.1935,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-21T01:11:56.39279+09:00",
+      "payDate": "2025-04-23T01:11:56.39279+09:00",
+      "declareDate": "2025-04-18T01:11:56.39279+09:00",
+      "amount": 0.207,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-14T01:11:56.39279+09:00",
+      "payDate": "2025-04-16T01:11:56.39279+09:00",
+      "declareDate": "2025-04-11T01:11:56.39279+09:00",
+      "amount": 0.153,
+      "group": "Weekly",
+      "frequency": "weekly"
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-07T01:11:56.39279+09:00",
+      "payDate": "2025-04-09T01:11:56.39279+09:00",
+      "declareDate": "2025-04-04T01:11:56.39279+09:00",
+      "amount": 0.16649999999999998,
+      "group": "Weekly",
+      "frequency": "weekly"
+    }
+  ],
+  "stats": {
+    "totalPayments": 12,
+    "averageAmount": 0.176625,
+    "lastAmount": 0.153,
+    "yearToDateTotal": 2.1195,
+    "trailingYearTotal": 2.1195,
+    "changePercent": -8.1081081081081
+  },
+  "updatedAt": "2025-06-25T01:11:56.39279+09:00"
+}

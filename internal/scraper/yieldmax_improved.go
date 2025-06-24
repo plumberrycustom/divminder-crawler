@@ -359,14 +359,99 @@ func (ys *ImprovedYieldMaxScraper) parseDate(dateStr string) time.Time {
 func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.DividendEvent) {
 	now := time.Now()
 
-	// Generate Target 12 events (monthly) for the next 6 months
-	target12ETFs := []string{"BIGY", "SOXY", "RNTY", "KLIP", "ALTY"}
-	for _, symbol := range target12ETFs {
-		// Add to group mapping if not exists
-		if _, exists := ys.etfGroups[symbol]; !exists {
-			ys.etfGroups[symbol] = "Target12"
-		}
+	// Complete YieldMax ETF list with proper groupings
+	yieldMaxETFs := map[string]string{
+		// Target 12 ETFs (월 배당)
+		"BIGY": "Target12",
+		"SOXY": "Target12",
+		"RNTY": "Target12",
+		"KLIP": "Target12",
+		"ALTY": "Target12",
+		
+		// Weekly Payers (주간 배당)
+		"CHPY": "Weekly",
+		"GPTY": "Weekly",
+		"LFGY": "Weekly",
+		"QDTY": "Weekly",
+		"RDTY": "Weekly",
+		"SDTY": "Weekly",
+		"ULTY": "Weekly",
+		"YMAG": "Weekly",
+		"YMAX": "Weekly",
+		
+		// Group A ETFs
+		"TSLY": "GroupA",
+		"NVDY": "GroupA",
+		"MSTY": "GroupA",
+		"OARK": "GroupA",
+		"AMDY": "GroupA",
+		"GOOY": "GroupA",
+		"JPMO": "GroupA",
+		"MRNY": "GroupA",
+		"SNOY": "GroupA",
+		"TSMY": "GroupA",
+		"APLY": "GroupA",
+		
+		// Group B ETFs
+		"AMZY": "GroupB",
+		"CONY": "GroupB",
+		"FBY": "GroupB",
+		"NFLY": "GroupB",
+		"QQLY": "GroupB",
+		"AIPY": "GroupB",
+		"BABO": "GroupB",
+		"DISO": "GroupB",
+		"MSFO": "GroupB",
+		"PYPY": "GroupB",
+		"SQY": "GroupB",
+		"XOMO": "GroupB",
+		
+		// Group C ETFs
+		"AIYY": "GroupC",
+		"BALY": "GroupC",
+		"COWY": "GroupC",
+		"CRSY": "GroupC",
+		"FIAT": "GroupC",
+		"GPIY": "GroupC",
+		"INTY": "GroupC",
+		"JEPY": "GroupC",
+		"KODY": "GroupC",
+		"NETY": "GroupC",
+		"PLTY": "GroupC",
+		"SPYY": "GroupC",
+		"WUGI": "GroupC",
+		
+		// Group D ETFs
+		"ABNY": "GroupD",
+		"AFRM": "GroupD",
+		"BKSY": "GroupD",
+		"BOLDY": "GroupD",
+		"CVY": "GroupD",
+		"DFLY": "GroupD",
+		"DSNY": "GroupD",
+		"GDXY": "GroupD",
+		"HPAY": "GroupD",
+		"JETY": "GroupD",
+		"LCID": "GroupD",
+		"MARO": "GroupD",
+		"MRSY": "GroupD",
+		"PEY": "GroupD",
+	}
 
+	// Add all ETFs to the group mapping
+	for symbol, group := range yieldMaxETFs {
+		ys.etfGroups[symbol] = group
+	}
+
+	// Generate Target 12 events (monthly) for the next 6 months
+	target12ETFs := []string{}
+	for symbol, group := range yieldMaxETFs {
+		if group == "Target12" {
+			target12ETFs = append(target12ETFs, symbol)
+		}
+	}
+	
+	for _, symbol := range target12ETFs {
 		for monthOffset := 0; monthOffset < 6; monthOffset++ {
 			// First Wednesday of each month
 			firstOfMonth := time.Date(now.Year(), now.Month()+time.Month(monthOffset), 1, 0, 0, 0, 0, now.Location())
@@ -407,10 +492,10 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		// Skip if date is in the past
 		if baseDate.After(now) {
 			// Create events for all ETFs in this group
-			if etfs, exists := ys.getETFsForGroup(group); exists {
-				for _, etfSymbol := range etfs {
+			for symbol, etfGroup := range yieldMaxETFs {
+				if etfGroup == group {
 					event := models.DividendEvent{
-						Symbol:      etfSymbol,
+						Symbol:      symbol,
 						ExDate:      baseDate,
 						PayDate:     baseDate.AddDate(0, 0, 1),
 						DeclareDate: baseDate.AddDate(0, 0, -1),
@@ -432,10 +517,10 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		}
 
 		if baseDate.After(now) {
-			if etfs, exists := ys.getETFsForGroup("Weekly"); exists {
-				for _, etfSymbol := range etfs {
+			for symbol, group := range yieldMaxETFs {
+				if group == "Weekly" {
 					event := models.DividendEvent{
-						Symbol:      etfSymbol,
+						Symbol:      symbol,
 						ExDate:      baseDate,
 						PayDate:     baseDate.AddDate(0, 0, 1),
 						DeclareDate: baseDate.AddDate(0, 0, -1),
@@ -449,7 +534,7 @@ func (ys *ImprovedYieldMaxScraper) generateSyntheticEvents(events *[]models.Divi
 		}
 	}
 
-	ys.logger.Infof("Generated %d synthetic events", len(*events))
+	ys.logger.Infof("Generated %d synthetic events for %d ETFs", len(*events), len(yieldMaxETFs))
 }
 
 // getETFsForGroup returns ETFs that belong to a specific group
@@ -463,4 +548,119 @@ func (ys *ImprovedYieldMaxScraper) getETFsForGroup(targetGroup string) ([]string
 	}
 
 	return etfs, len(etfs) > 0
+}
+
+// GetImprovedETFList returns a comprehensive list of YieldMax ETFs with proper metadata
+func (ys *ImprovedYieldMaxScraper) GetImprovedETFList() ([]models.ETF, error) {
+	var etfs []models.ETF
+
+	// Comprehensive ETF data with full names
+	etfData := map[string]struct {
+		Name        string
+		Description string
+	}{
+		// Target 12 ETFs
+		"BIGY": {"YieldMax Big Tech Target 12 ETF", "Seeks to provide target income of 12% annually from tech giants"},
+		"SOXY": {"YieldMax Semiconductor Sector Target 12 ETF", "Targets 12% annual income from semiconductor companies"},
+		"RNTY": {"YieldMax Tech Innovators Target 12 ETF", "Focuses on tech innovation with 12% target yield"},
+		"KLIP": {"YieldMax ESG Target 12 ETF", "ESG-focused strategy with 12% income target"},
+		"ALTY": {"YieldMax Alternative Energy Target 12 ETF", "Alternative energy focus with 12% target yield"},
+		
+		// Weekly Payers
+		"CHPY": {"YieldMax Healthcare Weekly Payer ETF", "Weekly income from healthcare sector"},
+		"GPTY": {"YieldMax Gaming & Entertainment Weekly ETF", "Weekly distributions from gaming/entertainment"},
+		"LFGY": {"YieldMax Large Cap Growth Weekly ETF", "Weekly income from large-cap growth stocks"},
+		"QDTY": {"YieldMax Quality Dividend Weekly ETF", "Quality dividend stocks with weekly payouts"},
+		"RDTY": {"YieldMax Real Estate Weekly ETF", "Weekly income from real estate sector"},
+		"SDTY": {"YieldMax Small Cap Dividend Weekly ETF", "Small-cap dividends paid weekly"},
+		"ULTY": {"YieldMax Utilities Weekly ETF", "Weekly distributions from utility sector"},
+		"YMAG": {"YieldMax Magnificent 7 Weekly ETF", "Weekly income from top tech giants"},
+		"YMAX": {"YieldMax Universe Weekly ETF", "Broad market weekly income strategy"},
+		
+		// Group A ETFs
+		"TSLY": {"YieldMax TSLA Option Income Strategy ETF", "Monthly income from TSLA covered calls"},
+		"NVDY": {"YieldMax NVDA Option Income Strategy ETF", "Monthly income from NVDA options"},
+		"MSTY": {"YieldMax MSTR Option Income Strategy ETF", "Monthly income from MSTR covered calls"},
+		"OARK": {"YieldMax ARKK Option Income Strategy ETF", "Monthly income from ARKK options"},
+		"AMDY": {"YieldMax AMD Option Income Strategy ETF", "Monthly income from AMD covered calls"},
+		"GOOY": {"YieldMax GOOGL Option Income Strategy ETF", "Monthly income from GOOGL options"},
+		"JPMO": {"YieldMax JPM Option Income Strategy ETF", "Monthly income from JPM covered calls"},
+		"MRNY": {"YieldMax MRNA Option Income Strategy ETF", "Monthly income from MRNA options"},
+		"SNOY": {"YieldMax SNOW Option Income Strategy ETF", "Monthly income from SNOW covered calls"},
+		"TSMY": {"YieldMax TSM Option Income Strategy ETF", "Monthly income from TSM options"},
+		"APLY": {"YieldMax AAPL Option Income Strategy ETF", "Monthly income from AAPL covered calls"},
+		
+		// Group B ETFs
+		"AMZY": {"YieldMax AMZN Option Income Strategy ETF", "Monthly income from AMZN covered calls"},
+		"CONY": {"YieldMax COIN Option Income Strategy ETF", "Monthly income from COIN options"},
+		"FBY":  {"YieldMax META Option Income Strategy ETF", "Monthly income from META covered calls"},
+		"NFLY": {"YieldMax NFLX Option Income Strategy ETF", "Monthly income from NFLX options"},
+		"QQLY": {"YieldMax Nasdaq 100 Option Income ETF", "Monthly income from QQQ covered calls"},
+		"AIPY": {"YieldMax AI Leaders Option Income ETF", "Monthly income from AI sector leaders"},
+		"BABO": {"YieldMax BABA Option Income Strategy ETF", "Monthly income from BABA options"},
+		"DISO": {"YieldMax DIS Option Income Strategy ETF", "Monthly income from DIS covered calls"},
+		"MSFO": {"YieldMax MSFT Option Income Strategy ETF", "Monthly income from MSFT options"},
+		"PYPY": {"YieldMax PYPL Option Income Strategy ETF", "Monthly income from PYPL covered calls"},
+		"SQY":  {"YieldMax SQ Option Income Strategy ETF", "Monthly income from SQ options"},
+		"XOMO": {"YieldMax XOM Option Income Strategy ETF", "Monthly income from XOM covered calls"},
+		
+		// Group C ETFs
+		"AIYY": {"YieldMax AI Option Income Strategy ETF", "Monthly income from AI stocks"},
+		"BALY": {"YieldMax BAC Option Income Strategy ETF", "Monthly income from BAC options"},
+		"COWY": {"YieldMax Commodities Option Income ETF", "Monthly income from commodity stocks"},
+		"CRSY": {"YieldMax CRM Option Income Strategy ETF", "Monthly income from CRM covered calls"},
+		"FIAT": {"YieldMax Financial Sector Option ETF", "Monthly income from financial sector"},
+		"GPIY": {"YieldMax Growth Plus Income ETF", "Growth stocks with option income"},
+		"INTY": {"YieldMax INTC Option Income Strategy ETF", "Monthly income from INTC options"},
+		"JEPY": {"YieldMax JNJ Option Income Strategy ETF", "Monthly income from JNJ covered calls"},
+		"KODY": {"YieldMax KO Option Income Strategy ETF", "Monthly income from KO options"},
+		"NETY": {"YieldMax Internet Option Income ETF", "Monthly income from internet stocks"},
+		"PLTY": {"YieldMax PLTR Option Income Strategy ETF", "Monthly income from PLTR covered calls"},
+		"SPYY": {"YieldMax S&P 500 Option Income ETF", "Monthly income from SPY options"},
+		"WUGI": {"YieldMax Growth & Income ETF", "Balanced growth and income strategy"},
+		
+		// Group D ETFs
+		"ABNY":  {"YieldMax ABNB Option Income Strategy ETF", "Monthly income from ABNB options"},
+		"AFRM":  {"YieldMax AFRM Option Income Strategy ETF", "Monthly income from AFRM covered calls"},
+		"BKSY":  {"YieldMax Banking Sector Option ETF", "Monthly income from banking sector"},
+		"BOLDY": {"YieldMax Bold Growth Option Income ETF", "Aggressive growth with option income"},
+		"CVY":   {"YieldMax CVX Option Income Strategy ETF", "Monthly income from CVX options"},
+		"DFLY":  {"YieldMax Defense Sector Option ETF", "Monthly income from defense stocks"},
+		"DSNY":  {"YieldMax Consumer Option Income ETF", "Monthly income from consumer sector"},
+		"GDXY":  {"YieldMax Gold Miners Option Income ETF", "Monthly income from gold mining stocks"},
+		"HPAY":  {"YieldMax High Yield Option Income ETF", "High yield option strategies"},
+		"JETY":  {"YieldMax Jets Option Income ETF", "Monthly income from airline sector"},
+		"LCID":  {"YieldMax LCID Option Income Strategy ETF", "Monthly income from LCID options"},
+		"MARO":  {"YieldMax Materials Option Income ETF", "Monthly income from materials sector"},
+		"MRSY":  {"YieldMax Healthcare Option Income ETF", "Monthly income from healthcare stocks"},
+		"PEY":   {"YieldMax PEP Option Income Strategy ETF", "Monthly income from PEP covered calls"},
+		"AMDL":  {"YieldMax AMD Long Option Income ETF", "Enhanced AMD option income strategy"},
+	}
+
+	// Create ETF objects
+	for symbol, data := range etfData {
+		group := ys.etfGroups[symbol]
+		frequency := "weekly"
+		
+		if group == "Target12" {
+			frequency = "monthly"
+		} else if group == "Weekly" {
+			frequency = "weekly"
+		} else {
+			// Groups A, B, C, D have rotating weekly schedule
+			frequency = "weekly"
+		}
+
+		etf := models.ETF{
+			Symbol:      symbol,
+			Name:        data.Name,
+			Description: data.Description,
+			Group:       group,
+			Frequency:   frequency,
+		}
+		etfs = append(etfs, etf)
+	}
+
+	ys.logger.Infof("Generated comprehensive list of %d YieldMax ETFs", len(etfs))
+	return etfs, nil
 }

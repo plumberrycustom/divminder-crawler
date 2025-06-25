@@ -1,0 +1,80 @@
+{
+  "symbol": "MARO",
+  "name": "",
+  "group": "GroupD",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "MARO",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-23T00:00:00Z",
+      "declareDate": "2025-06-18T00:00:00Z",
+      "amount": 1.2073,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "2025-05-21T00:00:00Z",
+      "amount": 1.9728,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "2025-04-23T00:00:00Z",
+      "amount": 1.8468,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "2025-03-26T00:00:00Z",
+      "amount": 1.4783,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "2025-02-26T00:00:00Z",
+      "amount": 1.5575,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-01-30T00:00:00Z",
+      "payDate": "2025-01-31T00:00:00Z",
+      "declareDate": "2025-01-29T00:00:00Z",
+      "amount": 2.1002,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
+      "exDate": "2025-01-03T00:00:00Z",
+      "payDate": "2025-01-06T00:00:00Z",
+      "declareDate": "2025-01-02T00:00:00Z",
+      "amount": 2.495,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 7,
+    "averageAmount": 1.8082714285714288,
+    "lastAmount": 1.2073,
+    "yearToDateTotal": 12.657900000000001,
+    "trailingYearTotal": 12.657900000000001,
+    "changePercent": -38.80271695052717
+  },
+  "updatedAt": "2025-06-26T07:59:57.639676+09:00"
+}

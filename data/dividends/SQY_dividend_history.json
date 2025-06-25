@@ -1,0 +1,197 @@
+{
+  "symbol": "SQY",
+  "name": "",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "SQY",
+      "exDate": "2025-06-05T00:00:00Z",
+      "payDate": "2025-06-06T00:00:00Z",
+      "declareDate": "2025-06-04T00:00:00Z",
+      "amount": 0.8732,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2025-05-08T00:00:00Z",
+      "payDate": "2025-05-09T00:00:00Z",
+      "declareDate": "2025-05-07T00:00:00Z",
+      "amount": 0.414,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2025-04-10T00:00:00Z",
+      "payDate": "2025-04-11T00:00:00Z",
+      "declareDate": "2025-04-09T00:00:00Z",
+      "amount": 0.4412,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2025-03-13T00:00:00Z",
+      "payDate": "2025-03-14T00:00:00Z",
+      "declareDate": "2025-03-12T00:00:00Z",
+      "amount": 0.5014,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2025-02-13T00:00:00Z",
+      "payDate": "2025-02-14T00:00:00Z",
+      "declareDate": "2025-02-12T00:00:00Z",
+      "amount": 0.584,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2025-01-16T00:00:00Z",
+      "payDate": "2025-01-17T00:00:00Z",
+      "declareDate": "2025-01-15T00:00:00Z",
+      "amount": 0.6338,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-12-19T00:00:00Z",
+      "payDate": "2024-12-20T00:00:00Z",
+      "declareDate": "2024-12-18T00:00:00Z",
+      "amount": 0.6543,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-11-21T00:00:00Z",
+      "payDate": "2024-11-22T00:00:00Z",
+      "declareDate": "2024-11-20T00:00:00Z",
+      "amount": 1.6699,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-10-24T00:00:00Z",
+      "payDate": "2024-10-25T00:00:00Z",
+      "declareDate": "2024-10-23T00:00:00Z",
+      "amount": 1.0201,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 1.276,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.637,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.6979,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "2024-06-05T00:00:00Z",
+      "amount": 0.9641,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-08T00:00:00Z",
+      "declareDate": "2024-05-03T00:00:00Z",
+      "amount": 1.1197,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-08T00:00:00Z",
+      "declareDate": "2024-04-03T00:00:00Z",
+      "amount": 0.6387,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-08T00:00:00Z",
+      "declareDate": "2024-03-05T00:00:00Z",
+      "amount": 0.654,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-09T00:00:00Z",
+      "declareDate": "2024-02-06T00:00:00Z",
+      "amount": 0.3823,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-09T00:00:00Z",
+      "declareDate": "2024-01-04T00:00:00Z",
+      "amount": 1.6174,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-13T00:00:00Z",
+      "declareDate": "2023-12-06T00:00:00Z",
+      "amount": 2.1463,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-16T00:00:00Z",
+      "declareDate": "2023-11-07T00:00:00Z",
+      "amount": 0.4372,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 20,
+    "averageAmount": 0.868125,
+    "lastAmount": 0.8732,
+    "yearToDateTotal": 3.4476,
+    "trailingYearTotal": 17.3625,
+    "changePercent": 110.91787439613528
+  },
+  "updatedAt": "2025-06-26T08:01:57.142095+09:00"
+}

@@ -1,0 +1,107 @@
+{
+  "symbol": "TSMY",
+  "name": "",
+  "group": "GroupA",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "2025-06-11T00:00:00Z",
+      "amount": 0.8958,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "2025-05-14T00:00:00Z",
+      "amount": 0.788,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-21T00:00:00Z",
+      "declareDate": "2025-04-16T00:00:00Z",
+      "amount": 0.5635,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "2025-03-19T00:00:00Z",
+      "amount": 0.5772,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "2025-02-19T00:00:00Z",
+      "amount": 0.6019,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "2025-01-22T00:00:00Z",
+      "amount": 0.6449,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-30T00:00:00Z",
+      "declareDate": "2024-12-26T00:00:00Z",
+      "amount": 0.8065,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-12-02T00:00:00Z",
+      "declareDate": "2024-11-27T00:00:00Z",
+      "amount": 0.538,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "2024-10-30T00:00:00Z",
+      "amount": 0.8897,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "2024-10-02T00:00:00Z",
+      "amount": 0.3714,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 10,
+    "averageAmount": 0.6676900000000001,
+    "lastAmount": 0.8958,
+    "yearToDateTotal": 4.0713,
+    "trailingYearTotal": 6.676900000000001,
+    "changePercent": 13.68020304568528
+  },
+  "updatedAt": "2025-06-26T08:02:10.479777+09:00"
+}

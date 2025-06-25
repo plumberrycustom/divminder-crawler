@@ -1,0 +1,215 @@
+{
+  "symbol": "AMZY",
+  "name": "",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-06-05T00:00:00Z",
+      "payDate": "2025-06-06T00:00:00Z",
+      "declareDate": "2025-06-04T00:00:00Z",
+      "amount": 0.5955,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-05-08T00:00:00Z",
+      "payDate": "2025-05-09T00:00:00Z",
+      "declareDate": "2025-05-07T00:00:00Z",
+      "amount": 0.7963,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-04-10T00:00:00Z",
+      "payDate": "2025-04-11T00:00:00Z",
+      "declareDate": "2025-04-09T00:00:00Z",
+      "amount": 0.4877,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-03-13T00:00:00Z",
+      "payDate": "2025-03-14T00:00:00Z",
+      "declareDate": "2025-03-12T00:00:00Z",
+      "amount": 0.4177,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-02-13T00:00:00Z",
+      "payDate": "2025-02-14T00:00:00Z",
+      "declareDate": "2025-02-12T00:00:00Z",
+      "amount": 0.548,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2025-01-16T00:00:00Z",
+      "payDate": "2025-01-17T00:00:00Z",
+      "declareDate": "2025-01-15T00:00:00Z",
+      "amount": 0.4005,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-12-19T00:00:00Z",
+      "payDate": "2024-12-20T00:00:00Z",
+      "declareDate": "2024-12-18T00:00:00Z",
+      "amount": 0.8619,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-11-21T00:00:00Z",
+      "payDate": "2024-11-22T00:00:00Z",
+      "declareDate": "2024-11-20T00:00:00Z",
+      "amount": 1.1731,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-10-24T00:00:00Z",
+      "payDate": "2024-10-25T00:00:00Z",
+      "declareDate": "2024-10-23T00:00:00Z",
+      "amount": 0.7632,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 0.6561,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.4736,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.765,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "2024-06-05T00:00:00Z",
+      "amount": 0.9541,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-08T00:00:00Z",
+      "declareDate": "2024-05-03T00:00:00Z",
+      "amount": 0.9726,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-08T00:00:00Z",
+      "declareDate": "2024-04-03T00:00:00Z",
+      "amount": 0.697,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-08T00:00:00Z",
+      "declareDate": "2024-03-05T00:00:00Z",
+      "amount": 0.6426,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-09T00:00:00Z",
+      "declareDate": "2024-02-06T00:00:00Z",
+      "amount": 0.6842,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-09T00:00:00Z",
+      "declareDate": "2024-01-04T00:00:00Z",
+      "amount": 0.3682,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-13T00:00:00Z",
+      "declareDate": "2023-12-06T00:00:00Z",
+      "amount": 0.469,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-16T00:00:00Z",
+      "declareDate": "2023-11-07T00:00:00Z",
+      "amount": 0.5439,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-16T00:00:00Z",
+      "declareDate": "2023-10-05T00:00:00Z",
+      "amount": 0.6338,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
+      "exDate": "2023-09-08T00:00:00Z",
+      "payDate": "2023-09-18T00:00:00Z",
+      "declareDate": "2023-09-07T00:00:00Z",
+      "amount": 0.4711,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 22,
+    "averageAmount": 0.6534136363636365,
+    "lastAmount": 0.5955,
+    "yearToDateTotal": 3.2457000000000003,
+    "trailingYearTotal": 14.375100000000002,
+    "changePercent": -25.216626899409768
+  },
+  "updatedAt": "2025-06-26T07:57:29.405558+09:00"
+}

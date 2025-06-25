@@ -1,0 +1,206 @@
+{
+  "symbol": "MSFO",
+  "name": "",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "2025-05-28T00:00:00Z",
+      "amount": 0.5498,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "2025-04-30T00:00:00Z",
+      "amount": 0.5255,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "2025-04-02T00:00:00Z",
+      "amount": 0.3337,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "2025-03-05T00:00:00Z",
+      "amount": 0.2845,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "2025-02-05T00:00:00Z",
+      "amount": 0.3615,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-10T00:00:00Z",
+      "declareDate": "2025-01-07T00:00:00Z",
+      "amount": 0.3667,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "2024-12-11T00:00:00Z",
+      "amount": 0.4126,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "2024-11-13T00:00:00Z",
+      "amount": 0.5097,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "2024-10-16T00:00:00Z",
+      "amount": 0.5077,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 0.4325,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.4051,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.3849,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "2024-06-05T00:00:00Z",
+      "amount": 0.4798,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-08T00:00:00Z",
+      "declareDate": "2024-05-03T00:00:00Z",
+      "amount": 0.5725,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-08T00:00:00Z",
+      "declareDate": "2024-04-03T00:00:00Z",
+      "amount": 0.7302,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-08T00:00:00Z",
+      "declareDate": "2024-03-05T00:00:00Z",
+      "amount": 0.7614,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-09T00:00:00Z",
+      "declareDate": "2024-02-06T00:00:00Z",
+      "amount": 0.6836,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-09T00:00:00Z",
+      "declareDate": "2024-01-04T00:00:00Z",
+      "amount": 0.5106,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-13T00:00:00Z",
+      "declareDate": "2023-12-06T00:00:00Z",
+      "amount": 0.7819,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-16T00:00:00Z",
+      "declareDate": "2023-11-07T00:00:00Z",
+      "amount": 0.3768,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-16T00:00:00Z",
+      "declareDate": "2023-10-05T00:00:00Z",
+      "amount": 0.2798,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 21,
+    "averageAmount": 0.48813333333333325,
+    "lastAmount": 0.5498,
+    "yearToDateTotal": 2.4216999999999995,
+    "trailingYearTotal": 10.250799999999998,
+    "changePercent": 4.62416745956232
+  },
+  "updatedAt": "2025-06-26T08:00:14.909115+09:00"
+}

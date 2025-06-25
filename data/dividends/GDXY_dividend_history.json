@@ -1,0 +1,134 @@
+{
+  "symbol": "GDXY",
+  "name": "",
+  "group": "GroupD",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-23T00:00:00Z",
+      "declareDate": "2025-06-18T00:00:00Z",
+      "amount": 0.8449,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "2025-05-21T00:00:00Z",
+      "amount": 0.3739,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "2025-04-23T00:00:00Z",
+      "amount": 0.7284,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "2025-03-26T00:00:00Z",
+      "amount": 0.6394,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "2025-02-26T00:00:00Z",
+      "amount": 0.4424,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-01-30T00:00:00Z",
+      "payDate": "2025-01-31T00:00:00Z",
+      "declareDate": "2025-01-29T00:00:00Z",
+      "amount": 0.5937,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2025-01-03T00:00:00Z",
+      "payDate": "2025-01-06T00:00:00Z",
+      "declareDate": "2025-01-02T00:00:00Z",
+      "amount": 0.3499,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2024-12-05T00:00:00Z",
+      "payDate": "2024-12-06T00:00:00Z",
+      "declareDate": "2024-12-04T00:00:00Z",
+      "amount": 0.3783,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2024-11-07T00:00:00Z",
+      "payDate": "2024-11-08T00:00:00Z",
+      "declareDate": "2024-11-06T00:00:00Z",
+      "amount": 0.4854,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2024-10-10T00:00:00Z",
+      "payDate": "2024-10-11T00:00:00Z",
+      "declareDate": "2024-10-08T00:00:00Z",
+      "amount": 0.606,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 0.601,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.5793,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.7959,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 13,
+    "averageAmount": 0.5706538461538462,
+    "lastAmount": 0.8449,
+    "yearToDateTotal": 3.9726,
+    "trailingYearTotal": 7.4185,
+    "changePercent": 125.969510564322
+  },
+  "updatedAt": "2025-06-26T07:58:57.062415+09:00"
+}

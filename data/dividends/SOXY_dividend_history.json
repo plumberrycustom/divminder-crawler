@@ -1,0 +1,71 @@
+{
+  "symbol": "SOXY",
+  "name": "",
+  "group": "Target12",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-06-04T00:00:00Z",
+      "payDate": "2025-06-05T00:00:00Z",
+      "declareDate": "2025-06-03T00:00:00Z",
+      "amount": 0.472,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-05-07T00:00:00Z",
+      "payDate": "2025-05-08T00:00:00Z",
+      "declareDate": "2025-05-06T00:00:00Z",
+      "amount": 0.4384,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-04-02T00:00:00Z",
+      "payDate": "2025-04-03T00:00:00Z",
+      "declareDate": "2025-04-01T00:00:00Z",
+      "amount": 0.4266,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-03-05T00:00:00Z",
+      "payDate": "2025-03-06T00:00:00Z",
+      "declareDate": "2025-03-04T00:00:00Z",
+      "amount": 0.4883,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-02-05T00:00:00Z",
+      "payDate": "2025-02-06T00:00:00Z",
+      "declareDate": "2025-02-04T00:00:00Z",
+      "amount": 0.4883,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SOXY",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-10T00:00:00Z",
+      "declareDate": "2025-01-07T00:00:00Z",
+      "amount": 0.5256,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 6,
+    "averageAmount": 0.4732,
+    "lastAmount": 0.472,
+    "yearToDateTotal": 2.8392,
+    "trailingYearTotal": 2.8392,
+    "changePercent": 7.664233576642328
+  },
+  "updatedAt": "2025-06-26T08:01:46.597816+09:00"
+}

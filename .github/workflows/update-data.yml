@@ -46,15 +46,21 @@ jobs:
     - name: Create data directory
       run: mkdir -p data
       
-    - name: Run crawler
+    - name: Run schedule crawler
       env:
         ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
         FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         FORCE_UPDATE: ${{ github.event.inputs.force_update }}
       run: |
-        echo "🚀 Starting DivMinder crawler..."
+        echo "🚀 Starting DivMinder schedule crawler..."
         go run cmd/crawler/main.go
-        echo "✅ Crawler completed successfully"
+        echo "✅ Schedule crawler completed successfully"
+        
+    - name: Run dividend history scraper
+      run: |
+        echo "📊 Starting dividend history scraper..."
+        go run cmd/scrape_dividends_cached/main.go
+        echo "✅ Dividend history scraper completed successfully"
         
     - name: Check for data changes
       id: check_changes

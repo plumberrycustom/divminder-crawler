@@ -1,0 +1,26 @@
+{
+  "symbol": "RNTY",
+  "name": "",
+  "group": "Target12",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "RNTY",
+      "exDate": "2025-06-04T00:00:00Z",
+      "payDate": "2025-06-05T00:00:00Z",
+      "declareDate": "2025-06-03T00:00:00Z",
+      "amount": 0.5209,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 1,
+    "averageAmount": 0.5209,
+    "lastAmount": 0.5209,
+    "yearToDateTotal": 0.5209,
+    "trailingYearTotal": 0.5209,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T08:01:26.103405+09:00"
+}

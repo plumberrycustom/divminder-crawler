@@ -1,0 +1,197 @@
+{
+  "symbol": "GPTY",
+  "name": "",
+  "group": "Weekly",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-23T00:00:00Z",
+      "declareDate": "2025-06-18T00:00:00Z",
+      "amount": 0.3226,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "2025-06-11T00:00:00Z",
+      "amount": 0.307,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-06-05T00:00:00Z",
+      "payDate": "2025-06-06T00:00:00Z",
+      "declareDate": "2025-06-04T00:00:00Z",
+      "amount": 0.2977,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "2025-05-28T00:00:00Z",
+      "amount": 0.2895,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "2025-05-21T00:00:00Z",
+      "amount": 0.2905,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "2025-05-14T00:00:00Z",
+      "amount": 0.2712,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-08T00:00:00Z",
+      "payDate": "2025-05-09T00:00:00Z",
+      "declareDate": "2025-05-07T00:00:00Z",
+      "amount": 0.2738,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "2025-04-30T00:00:00Z",
+      "amount": 0.2926,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "2025-04-23T00:00:00Z",
+      "amount": 0.2472,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-21T00:00:00Z",
+      "declareDate": "2025-04-16T00:00:00Z",
+      "amount": 0.2545,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-10T00:00:00Z",
+      "payDate": "2025-04-11T00:00:00Z",
+      "declareDate": "2025-04-09T00:00:00Z",
+      "amount": 0.236,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "2025-04-02T00:00:00Z",
+      "amount": 0.2668,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "2025-03-26T00:00:00Z",
+      "amount": 0.2787,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "2025-03-19T00:00:00Z",
+      "amount": 0.264,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-03-13T00:00:00Z",
+      "payDate": "2025-03-14T00:00:00Z",
+      "declareDate": "2025-03-12T00:00:00Z",
+      "amount": 0.2823,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "2025-03-05T00:00:00Z",
+      "amount": 0.3094,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "2025-02-26T00:00:00Z",
+      "amount": 0.313,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "2025-02-19T00:00:00Z",
+      "amount": 0.3258,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-02-13T00:00:00Z",
+      "payDate": "2025-02-14T00:00:00Z",
+      "declareDate": "2025-02-12T00:00:00Z",
+      "amount": 0.2936,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
+      "exDate": "2025-02-07T00:00:00Z",
+      "payDate": "2025-02-10T00:00:00Z",
+      "declareDate": "2025-02-05T00:00:00Z",
+      "amount": 0.3353,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 20,
+    "averageAmount": 0.287575,
+    "lastAmount": 0.3226,
+    "yearToDateTotal": 5.7515,
+    "trailingYearTotal": 5.7515,
+    "changePercent": 5.081433224755702
+  },
+  "updatedAt": "2025-06-26T07:59:14.498817+09:00"
+}

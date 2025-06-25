@@ -1,0 +1,197 @@
+{
+  "symbol": "PYPY",
+  "name": "",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "2025-05-28T00:00:00Z",
+      "amount": 0.5507,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "2025-04-30T00:00:00Z",
+      "amount": 0.5519,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "2025-04-02T00:00:00Z",
+      "amount": 0.3521,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "2025-03-05T00:00:00Z",
+      "amount": 0.3773,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "2025-02-05T00:00:00Z",
+      "amount": 0.6665,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-10T00:00:00Z",
+      "declareDate": "2025-01-07T00:00:00Z",
+      "amount": 0.4264,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "2024-12-11T00:00:00Z",
+      "amount": 0.601,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "2024-11-13T00:00:00Z",
+      "amount": 0.588,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "2024-10-16T00:00:00Z",
+      "amount": 1.1042,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 1.6193,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.3507,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.4324,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "2024-06-05T00:00:00Z",
+      "amount": 0.6694,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-08T00:00:00Z",
+      "declareDate": "2024-05-03T00:00:00Z",
+      "amount": 0.942,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-08T00:00:00Z",
+      "declareDate": "2024-04-03T00:00:00Z",
+      "amount": 0.4661,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-08T00:00:00Z",
+      "declareDate": "2024-03-05T00:00:00Z",
+      "amount": 0.7234,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-09T00:00:00Z",
+      "declareDate": "2024-02-06T00:00:00Z",
+      "amount": 0.6545,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-09T00:00:00Z",
+      "declareDate": "2024-01-04T00:00:00Z",
+      "amount": 0.5663,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-13T00:00:00Z",
+      "declareDate": "2023-12-06T00:00:00Z",
+      "amount": 0.5199,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-16T00:00:00Z",
+      "declareDate": "2023-11-07T00:00:00Z",
+      "amount": 0.6211,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 20,
+    "averageAmount": 0.6391600000000001,
+    "lastAmount": 0.5507,
+    "yearToDateTotal": 2.9249,
+    "trailingYearTotal": 12.7832,
+    "changePercent": -0.2174306939662944
+  },
+  "updatedAt": "2025-06-26T08:01:02.254548+09:00"
+}

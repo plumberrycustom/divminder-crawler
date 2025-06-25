@@ -1,0 +1,215 @@
+{
+  "symbol": "NFLY",
+  "name": "",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "2025-05-28T00:00:00Z",
+      "amount": 0.6832,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "2025-04-30T00:00:00Z",
+      "amount": 0.923,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "2025-04-02T00:00:00Z",
+      "amount": 0.602,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "2025-03-05T00:00:00Z",
+      "amount": 0.4008,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "2025-02-05T00:00:00Z",
+      "amount": 1.0705,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-10T00:00:00Z",
+      "declareDate": "2025-01-07T00:00:00Z",
+      "amount": 0.583,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "2024-12-11T00:00:00Z",
+      "amount": 0.8651,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "2024-11-13T00:00:00Z",
+      "amount": 0.7843,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "2024-10-16T00:00:00Z",
+      "amount": 0.7929,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 0.5103,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.574,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.3774,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "2024-06-05T00:00:00Z",
+      "amount": 0.6297,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-08T00:00:00Z",
+      "declareDate": "2024-05-03T00:00:00Z",
+      "amount": 0.9666,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-08T00:00:00Z",
+      "declareDate": "2024-04-03T00:00:00Z",
+      "amount": 0.8052,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-08T00:00:00Z",
+      "declareDate": "2024-03-05T00:00:00Z",
+      "amount": 0.7296,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-09T00:00:00Z",
+      "declareDate": "2024-02-06T00:00:00Z",
+      "amount": 1.2569,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-09T00:00:00Z",
+      "declareDate": "2024-01-04T00:00:00Z",
+      "amount": 0.7964,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-13T00:00:00Z",
+      "declareDate": "2023-12-06T00:00:00Z",
+      "amount": 0.7988,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-16T00:00:00Z",
+      "declareDate": "2023-11-07T00:00:00Z",
+      "amount": 0.4385,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-16T00:00:00Z",
+      "declareDate": "2023-10-05T00:00:00Z",
+      "amount": 0.5095,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
+      "exDate": "2023-09-08T00:00:00Z",
+      "payDate": "2023-09-18T00:00:00Z",
+      "declareDate": "2023-09-07T00:00:00Z",
+      "amount": 0.4194,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 22,
+    "averageAmount": 0.7053227272727272,
+    "lastAmount": 0.6832,
+    "yearToDateTotal": 4.2625,
+    "trailingYearTotal": 15.517099999999997,
+    "changePercent": -25.980498374864574
+  },
+  "updatedAt": "2025-06-26T08:00:31.926751+09:00"
+}

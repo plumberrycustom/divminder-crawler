@@ -1,0 +1,134 @@
+{
+  "symbol": "SNOY",
+  "name": "",
+  "group": "GroupA",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "2025-06-11T00:00:00Z",
+      "amount": 1.2757,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "2025-05-14T00:00:00Z",
+      "amount": 1.3068,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-21T00:00:00Z",
+      "declareDate": "2025-04-16T00:00:00Z",
+      "amount": 0.6864,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "2025-03-19T00:00:00Z",
+      "amount": 0.8119,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "2025-02-19T00:00:00Z",
+      "amount": 0.921,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "2025-01-22T00:00:00Z",
+      "amount": 0.7392,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-30T00:00:00Z",
+      "declareDate": "2024-12-26T00:00:00Z",
+      "amount": 0.5675,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-12-02T00:00:00Z",
+      "declareDate": "2024-11-27T00:00:00Z",
+      "amount": 1.7084,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "2024-10-30T00:00:00Z",
+      "amount": 0.5589,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "2024-10-02T00:00:00Z",
+      "amount": 0.5128,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-09T00:00:00Z",
+      "declareDate": "2024-09-05T00:00:00Z",
+      "amount": 0.8629,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "2024-08-06T00:00:00Z",
+      "amount": 0.7834,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-08T00:00:00Z",
+      "declareDate": "2024-07-03T00:00:00Z",
+      "amount": 0.9331,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 13,
+    "averageAmount": 0.8975384615384615,
+    "lastAmount": 1.2757,
+    "yearToDateTotal": 5.7410000000000005,
+    "trailingYearTotal": 11.668,
+    "changePercent": -2.379859198041009
+  },
+  "updatedAt": "2025-06-26T08:01:39.830205+09:00"
+}

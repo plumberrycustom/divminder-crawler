@@ -24,12 +24,23 @@ func main() {
 	logger.SetLevel(logrus.InfoLevel)
 	logger.SetFormatter(&logrus.JSONFormatter{})
 
-	logger.Info("Starting DivMinder crawler v3 with Alpha Vantage integration...")
+	logger.Info("Starting DivMinder crawler with comprehensive YieldMax scraping...")
 
 	// Create output directory
 	outputDir := "data"
 	if err := os.MkdirAll(outputDir, 0755); err != nil {
 		logger.Fatalf("Failed to create output directory: %v", err)
+	}
+	
+	// Use new comprehensive scraper
+	fullScraper := scraper.NewYieldMaxFullScraper()
+	if err := fullScraper.ScrapeAndSaveAllData(outputDir); err != nil {
+		logger.Errorf("Full scraper failed: %v", err)
+		logger.Info("Falling back to improved scraper...")
+		// Continue with existing code as fallback
+	} else {
+		logger.Info("Successfully completed comprehensive data scraping!")
+		return
 	}
 
 	// Initialize improved YieldMax scraper

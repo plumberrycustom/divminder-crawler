@@ -21,11 +21,13 @@ YieldMax ETF 배당 데이터를 수집하고 JSON API를 생성하는 Go 크롤
 - 향후 배당 이벤트
 - Ex-Date, Pay-Date, Declare-Date
 - 그룹별 분류
+- https://www.yieldmaxetfs.com/distribution-schedule/ 파싱하여 수집한다.
 
 ### 개별 ETF 히스토리 (`dividends_{SYMBOL}.json`)
 - 과거 배당 히스토리
 - 배당금 변화 추이
 - 통계 정보
+- https://www.yieldmaxetfs.com/our-etfs/{SYMBOL}/ 페이지에서 배당 내역과 펀드에 대한 상세 정보 수집 가능. 
 
 ## 사용법
 

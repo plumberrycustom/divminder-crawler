@@ -108,6 +108,18 @@ type Schedule struct {
 	Upcoming  []DividendEvent `json:"upcoming"`
 }
 
+// ETFDetail represents detailed information scraped from individual ETF pages
+type ETFDetail struct {
+	Symbol          string          `json:"symbol"`
+	Name            string          `json:"name"`
+	Description     string          `json:"description"`
+	CurrentPrice    float64         `json:"currentPrice"`
+	CurrentYield    float64         `json:"currentYield"`
+	Frequency       string          `json:"frequency"`
+	DividendHistory []DividendEvent `json:"dividendHistory"`
+	LastUpdated     time.Time       `json:"lastUpdated"`
+}
+
 // APIResponse represents a generic API response wrapper
 type APIResponse struct {
 	Success   bool        `json:"success"`

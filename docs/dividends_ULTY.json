@@ -1,0 +1,278 @@
+{
+  "symbol": "ULTY",
+  "name": "YieldMax™ UltraOption Income Strategy ETF",
+  "group": "Weekly",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-26T00:00:00Z",
+      "payDate": "2025-06-27T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0923,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0875,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.095,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-06-05T00:00:00Z",
+      "payDate": "2025-06-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0945,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0954,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0979,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1059,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-05-08T00:00:00Z",
+      "payDate": "2025-05-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1181,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0936,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0836,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0852,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-04-10T00:00:00Z",
+      "payDate": "2025-04-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0822,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0916,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0986,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0977,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-03-13T00:00:00Z",
+      "payDate": "2025-03-14T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1025,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4653,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5369,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5715,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7092,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8313,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8267,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-09-19T00:00:00Z",
+      "payDate": "2024-09-20T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9825,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-08-15T00:00:00Z",
+      "payDate": "2024-08-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7803,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-07-17T00:00:00Z",
+      "payDate": "2024-07-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9948,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-06-14T00:00:00Z",
+      "payDate": "2024-06-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1337,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-05-15T00:00:00Z",
+      "payDate": "2024-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2782,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-04-17T00:00:00Z",
+      "payDate": "2024-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.4171,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
+      "exDate": "2024-03-14T00:00:00Z",
+      "payDate": "2024-03-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0653,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 29,
+    "averageAmount": 0.45222068965517237,
+    "lastAmount": 0.0923,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:15:53.460605261Z"
+}

@@ -1,0 +1,215 @@
+{
+  "symbol": "XOMO",
+  "name": "YieldMax™ XOMOption Income Strategy ETF",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2498,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3976,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.35,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.295,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2541,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3485,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2406,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-11-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5096,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3373,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.254,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3664,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3413,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1879,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3013,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.335,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2574,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2786,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2215,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3101,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1988,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4067,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "XOMO",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2863,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 22,
+    "averageAmount": 0.3058090909090909,
+    "lastAmount": 0.2498,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:16:20.677171618Z"
+}

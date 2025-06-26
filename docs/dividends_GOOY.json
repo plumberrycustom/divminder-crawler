@@ -1,0 +1,224 @@
+{
+  "symbol": "GOOY",
+  "name": "YieldMax™ GOOGLOption Income Strategy ETF",
+  "group": "GroupA",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3978,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3449,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3729,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3284,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3877,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3324,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6332,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-11-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2848,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3771,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2554,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3577,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4993,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4679,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6858,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6677,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3099,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2554,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4212,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2298,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3739,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3905,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3898,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GOOY",
+      "exDate": "2023-09-08T00:00:00Z",
+      "payDate": "2023-09-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2914,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 23,
+    "averageAmount": 0.393691304347826,
+    "lastAmount": 0.3978,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:17:29.083862711Z"
+}

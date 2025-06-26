@@ -1,0 +1,215 @@
+{
+  "symbol": "CONY",
+  "name": "YieldMax™ COINOption Income Strategy ETF",
+  "group": "GroupC",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "CONY",
+      "exDate": "2025-06-26T00:00:00Z",
+      "payDate": "2025-06-27T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5354,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7351,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.651,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4381,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5989,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0468,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8339,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.3391,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.0231,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1098,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0432,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0061,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.5732,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6982,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.2807,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.7944,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6619,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0751,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.6932,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.4615,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0776,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2088,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 22,
+    "averageAmount": 1.3584136363636363,
+    "lastAmount": 0.5354,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:18:03.167662881Z"
+}

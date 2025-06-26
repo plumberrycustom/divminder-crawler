@@ -1,0 +1,125 @@
+{
+  "symbol": "FIAT",
+  "name": "YieldMax™ Short COIN Option Income Strategy ETF",
+  "group": "GroupC",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-06-26T00:00:00Z",
+      "payDate": "2025-06-27T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1536,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2667,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5618,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.924,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6834,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5498,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.653,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6822,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7258,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.4513,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.8713,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.8924,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 12,
+    "averageAmount": 0.8679416666666667,
+    "lastAmount": 0.1536,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:16:12.660400894Z"
+}

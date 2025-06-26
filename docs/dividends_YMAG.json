@@ -1,0 +1,449 @@
+{
+  "symbol": "YMAG",
+  "name": "YieldMax™ Magnificent 7 Fund of Option Income ETFs",
+  "group": "Weekly",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-26T00:00:00Z",
+      "payDate": "2025-06-27T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1574,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1691,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1709,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-06-05T00:00:00Z",
+      "payDate": "2025-06-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2089,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2929,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2595,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1998,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-05-08T00:00:00Z",
+      "payDate": "2025-05-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1059,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.101,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0924,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0943,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-04-10T00:00:00Z",
+      "payDate": "2025-04-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0973,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0971,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0837,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.085,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-03-13T00:00:00Z",
+      "payDate": "2025-03-14T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1445,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1514,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.176,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1369,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-02-13T00:00:00Z",
+      "payDate": "2025-02-14T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0509,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-02-06T00:00:00Z",
+      "payDate": "2025-02-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1862,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-01-30T00:00:00Z",
+      "payDate": "2025-01-31T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1898,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1002,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-01-16T00:00:00Z",
+      "payDate": "2025-01-17T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.05,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-01-08T00:00:00Z",
+      "payDate": "2025-01-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1578,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2025-01-03T00:00:00Z",
+      "payDate": "2025-01-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3102,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1742,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-12-19T00:00:00Z",
+      "payDate": "2024-12-20T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0592,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-12-12T00:00:00Z",
+      "payDate": "2024-12-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.168,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-12-05T00:00:00Z",
+      "payDate": "2024-12-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.277,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-11-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2029,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-11-21T00:00:00Z",
+      "payDate": "2024-11-22T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0606,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-11-14T00:00:00Z",
+      "payDate": "2024-11-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2104,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-11-07T00:00:00Z",
+      "payDate": "2024-11-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2065,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1528,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-10-24T00:00:00Z",
+      "payDate": "2024-10-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0545,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-10-17T00:00:00Z",
+      "payDate": "2024-10-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2261,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-10-10T00:00:00Z",
+      "payDate": "2024-10-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2823,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1644,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-09-26T00:00:00Z",
+      "payDate": "2024-09-27T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1701,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-09-19T00:00:00Z",
+      "payDate": "2024-09-20T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1979,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-08-15T00:00:00Z",
+      "payDate": "2024-08-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5761,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-07-17T00:00:00Z",
+      "payDate": "2024-07-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6365,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-06-14T00:00:00Z",
+      "payDate": "2024-06-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6773,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-05-15T00:00:00Z",
+      "payDate": "2024-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6369,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-04-17T00:00:00Z",
+      "payDate": "2024-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6226,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-03-14T00:00:00Z",
+      "payDate": "2024-03-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.592,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
+      "exDate": "2024-02-15T00:00:00Z",
+      "payDate": "2024-02-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4306,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 48,
+    "averageAmount": 0.22183333333333333,
+    "lastAmount": 0.1574,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:17:47.6573097Z"
+}

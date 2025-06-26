@@ -1,0 +1,215 @@
+{
+  "symbol": "JPMO",
+  "name": "YieldMax™ JPMOption Income Strategy ETF",
+  "group": "GroupA",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2774,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3923,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5612,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3717,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2951,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-01-30T00:00:00Z",
+      "payDate": "2025-01-31T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6929,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2025-01-03T00:00:00Z",
+      "payDate": "2025-01-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3011,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-12-05T00:00:00Z",
+      "payDate": "2024-12-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3193,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-11-07T00:00:00Z",
+      "payDate": "2024-11-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3501,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-10-10T00:00:00Z",
+      "payDate": "2024-10-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3768,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5233,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.371,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2205,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3483,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4171,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6495,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4927,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2376,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2489,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2009,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5175,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.252,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 22,
+    "averageAmount": 0.38260000000000005,
+    "lastAmount": 0.2774,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:15:34.214814094Z"
+}

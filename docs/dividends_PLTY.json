@@ -1,0 +1,98 @@
+{
+  "symbol": "PLTY",
+  "name": "YieldMax™ PLTROption Income Strategy ETF",
+  "group": "GroupC",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 3.26,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 7.0442,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 4.6556,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 5.3257,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 5.9377,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-01-30T00:00:00Z",
+      "payDate": "2025-01-31T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.9826,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2025-01-03T00:00:00Z",
+      "payDate": "2025-01-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 3.5887,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2024-12-05T00:00:00Z",
+      "payDate": "2024-12-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 3.3475,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
+      "exDate": "2024-11-07T00:00:00Z",
+      "payDate": "2024-11-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.2011,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 9,
+    "averageAmount": 4.260344444444444,
+    "lastAmount": 3.26,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:19:07.56686306Z"
+}

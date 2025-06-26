@@ -1,0 +1,575 @@
+{
+  "symbol": "TSLY",
+  "name": "YieldMax™ TSLAOption Income Strategy ETF",
+  "group": "GroupA",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4028,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.76,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6598,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4638,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5793,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.717,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.286,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-11-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2208,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5986,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0949,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8186,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9661,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0035,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6448,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6942,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6841,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8109,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8092,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.113,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2078,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1692,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1538,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-09-08T00:00:00Z",
+      "payDate": "2023-09-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1698,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-08-04T00:00:00Z",
+      "payDate": "2023-08-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6606,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-07-07T00:00:00Z",
+      "payDate": "2023-07-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.1322,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-06-07T00:00:00Z",
+      "payDate": "2023-06-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6066,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-05-05T00:00:00Z",
+      "payDate": "2023-05-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8804,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-04-06T00:00:00Z",
+      "payDate": "2023-04-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6572,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-03-08T00:00:00Z",
+      "payDate": "2023-03-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.8046,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-02-08T00:00:00Z",
+      "payDate": "2023-02-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.8058,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-01-10T00:00:00Z",
+      "payDate": "2023-01-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.9972,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4028,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.76,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6598,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4638,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-02-20T00:00:00Z",
+      "payDate": "2025-02-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5793,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-01-23T00:00:00Z",
+      "payDate": "2025-01-24T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.717,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-12-27T00:00:00Z",
+      "payDate": "2024-12-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.286,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-11-29T00:00:00Z",
+      "payDate": "2024-11-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2208,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-10-31T00:00:00Z",
+      "payDate": "2024-11-01T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5986,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-10-03T00:00:00Z",
+      "payDate": "2024-10-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0949,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8186,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-08-07T00:00:00Z",
+      "payDate": "2024-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9661,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-07-05T00:00:00Z",
+      "payDate": "2024-07-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.0035,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-06-06T00:00:00Z",
+      "payDate": "2024-06-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6448,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-05-06T00:00:00Z",
+      "payDate": "2024-05-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6942,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-04-04T00:00:00Z",
+      "payDate": "2024-04-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6841,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-03-06T00:00:00Z",
+      "payDate": "2024-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8109,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-02-07T00:00:00Z",
+      "payDate": "2024-02-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8092,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2024-01-05T00:00:00Z",
+      "payDate": "2024-01-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.113,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-12-07T00:00:00Z",
+      "payDate": "2023-12-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2078,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-11-08T00:00:00Z",
+      "payDate": "2023-11-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1692,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-10-06T00:00:00Z",
+      "payDate": "2023-10-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1538,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-09-08T00:00:00Z",
+      "payDate": "2023-09-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1698,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-08-04T00:00:00Z",
+      "payDate": "2023-08-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6606,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-07-07T00:00:00Z",
+      "payDate": "2023-07-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 2.1322,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-06-07T00:00:00Z",
+      "payDate": "2023-06-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6066,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-05-05T00:00:00Z",
+      "payDate": "2023-05-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8804,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-04-06T00:00:00Z",
+      "payDate": "2023-04-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.6572,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-03-08T00:00:00Z",
+      "payDate": "2023-03-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.8046,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-02-08T00:00:00Z",
+      "payDate": "2023-02-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.8058,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2023-01-10T00:00:00Z",
+      "payDate": "2023-01-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.9972,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 62,
+    "averageAmount": 1.082987096774194,
+    "lastAmount": 0.4028,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:15:14.608683483Z"
+}

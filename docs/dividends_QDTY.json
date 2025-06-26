@@ -1,0 +1,179 @@
+{
+  "symbol": "QDTY",
+  "name": "YieldMax™ Nasdaq 100 0DTE Covered Call Strategy ETF",
+  "group": "Weekly",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-26T00:00:00Z",
+      "payDate": "2025-06-27T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1188,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2342,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-12T00:00:00Z",
+      "payDate": "2025-06-13T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2572,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-06-05T00:00:00Z",
+      "payDate": "2025-06-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2307,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-05-29T00:00:00Z",
+      "payDate": "2025-05-30T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3115,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3249,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-05-15T00:00:00Z",
+      "payDate": "2025-05-16T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2347,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-05-08T00:00:00Z",
+      "payDate": "2025-05-09T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2841,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-05-01T00:00:00Z",
+      "payDate": "2025-05-02T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3362,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3231,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-04-17T00:00:00Z",
+      "payDate": "2025-04-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.332,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-04-10T00:00:00Z",
+      "payDate": "2025-04-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2199,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-04-03T00:00:00Z",
+      "payDate": "2025-04-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2638,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2711,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-03-20T00:00:00Z",
+      "payDate": "2025-03-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3124,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-03-13T00:00:00Z",
+      "payDate": "2025-03-14T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.246,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-03-06T00:00:00Z",
+      "payDate": "2025-03-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.158,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3231,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 18,
+    "averageAmount": 0.26565,
+    "lastAmount": 0.1188,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:15:10.508830758Z"
+}

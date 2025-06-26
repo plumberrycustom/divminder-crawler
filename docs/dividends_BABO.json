@@ -1,0 +1,116 @@
+{
+  "symbol": "BABO",
+  "name": "YieldMax™ BABAOption Income Strategy ETF",
+  "group": "GroupB",
+  "frequency": "monthly",
+  "events": [
+    {
+      "symbol": "BABO",
+      "exDate": "2025-06-20T00:00:00Z",
+      "payDate": "2025-06-21T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4314,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-05-22T00:00:00Z",
+      "payDate": "2025-05-23T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9998,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-04-24T00:00:00Z",
+      "payDate": "2025-04-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6587,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-03-27T00:00:00Z",
+      "payDate": "2025-03-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7578,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-02-27T00:00:00Z",
+      "payDate": "2025-02-28T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.919,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-01-30T00:00:00Z",
+      "payDate": "2025-01-31T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4693,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2025-01-03T00:00:00Z",
+      "payDate": "2025-01-04T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4451,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2024-12-05T00:00:00Z",
+      "payDate": "2024-12-06T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7292,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2024-11-07T00:00:00Z",
+      "payDate": "2024-11-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.8253,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2024-10-10T00:00:00Z",
+      "payDate": "2024-10-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.2932,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
+      "exDate": "2024-09-06T00:00:00Z",
+      "payDate": "2024-09-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7015,
+      "group": "",
+      "frequency": ""
+    }
+  ],
+  "stats": {
+    "totalPayments": 11,
+    "averageAmount": 0.8391181818181818,
+    "lastAmount": 0.4314,
+    "yearToDateTotal": 0,
+    "trailingYearTotal": 0,
+    "changePercent": 0
+  },
+  "updatedAt": "2025-06-26T15:17:02.496398735Z"
+}

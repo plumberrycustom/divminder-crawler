@@ -30,7 +30,7 @@ func main() {
 	startTime := time.Now()
 
 	// Create output directory
-	outputDir := "data/dividends"
+	outputDir := "docs/dividends"
 	if err := os.MkdirAll(outputDir, 0755); err != nil {
 		log.Fatal("Failed to create output directory:", err)
 	}
@@ -217,7 +217,7 @@ func createSummary(outputDir string) {
 	}
 
 	// Save summary
-	summaryPath := "data/etf_summary.json"
+	summaryPath := "docs/etf_summary.json"
 	summaryData := map[string]interface{}{
 		"lastUpdated": time.Now(),
 		"etfs":        summaryETFs,

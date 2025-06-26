@@ -44,7 +44,7 @@ jobs:
       run: go mod download
       
     - name: Create data directory
-      run: mkdir -p data
+      run: mkdir -p docs
       
     - name: Run schedule crawler
       env:
@@ -65,13 +65,13 @@ jobs:
     - name: Check for data changes
       id: check_changes
       run: |
-        if git diff --quiet data/; then
+        if git diff --quiet docs/; then
           echo "changes=false" >> $GITHUB_OUTPUT
           echo "📊 No data changes detected"
         else
           echo "changes=true" >> $GITHUB_OUTPUT
           echo "📈 Data changes detected"
-          git diff --stat data/
+          git diff --stat docs/
         fi
         
     - name: Generate commit message
@@ -79,15 +79,15 @@ jobs:
       id: commit_message
       run: |
         TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S KST')
-        ETF_COUNT=$(jq length data/etfs.json 2>/dev/null || echo "0")
-        SCHEDULE_COUNT=$(jq '.upcoming | length' data/schedule_v3.json 2>/dev/null || echo "0")
+        ETF_COUNT=$(jq length docs/etfs.json 2>/dev/null || echo "0")
+        SCHEDULE_COUNT=$(jq '.upcoming | length' docs/schedule_v3.json 2>/dev/null || echo "0")
         
         MESSAGE="🔄 Auto-update YieldMax data - $TIMESTAMP
 
         📊 Data Summary:
         - ETFs: $ETF_COUNT
         - Dividend Events: $SCHEDULE_COUNT
-        - Updated Files: $(git diff --name-only data/ | wc -l)
+        - Updated Files: $(git diff --name-only docs/ | wc -l)
         
         🤖 Automated update via GitHub Actions"
         
@@ -100,7 +100,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/
+        git add docs/
         git commit -m "${{ steps.commit_message.outputs.message }}"
         git push
         
@@ -112,18 +112,18 @@ jobs:
         echo "**Timestamp:** $(date '+%Y-%m-%d %H:%M:%S KST')" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
-        if [ -f "data/api_summary_v3.json" ]; then
+        if [ -f "docs/api_summary_v3.json" ]; then
           echo "### 📊 Data Statistics" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- **ETFs:** $(jq -r '.data.totalETFs // "N/A"' data/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
-          echo "- **Data Sources:** $(jq -r '.data.dataSources | join(", ") // "N/A"' data/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
-          echo "- **Version:** $(jq -r '.data.version // "N/A"' data/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **ETFs:** $(jq -r '.data.totalETFs // "N/A"' docs/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Data Sources:** $(jq -r '.data.dataSources | join(", ") // "N/A"' docs/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Version:** $(jq -r '.data.version // "N/A"' docs/api_summary_v3.json)" >> $GITHUB_STEP_SUMMARY
         fi
         
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "### 📁 Updated Files" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        ls -la data/ | tail -n +2 | while read line; do
+        ls -la docs/ | tail -n +2 | while read line; do
           echo "- $line" >> $GITHUB_STEP_SUMMARY
         done
         
@@ -154,7 +154,7 @@ jobs:
           4. Consider running the crawler manually to debug
           
           ### 📊 Last Successful Data
-          Check the \`data/\` directory for the most recent successful update.
+          Check the \`docs/\` directory for the most recent successful update.
           
           ---
           *This issue was automatically created by GitHub Actions*
@@ -193,7 +193,7 @@ jobs:
         echo "🔍 Running data quality checks..."
         
         # JSON 파일 유효성 검사
-        for file in data/*.json; do
+        for file in docs/*.json; do
           if [ -f "$file" ]; then
             echo "Validating $file..."
             if ! jq empty "$file" 2>/dev/null; then
@@ -206,7 +206,7 @@ jobs:
         done
         
         # 필수 파일 존재 확인
-        required_files=("data/etfs.json" "data/schedule_v3.json" "data/api_summary_v3.json")
+        required_files=("docs/etfs.json" "docs/schedule_v3.json" "docs/api_summary_v3.json")
         for file in "${required_files[@]}"; do
           if [ ! -f "$file" ]; then
             echo "❌ Missing required file: $file"
@@ -217,7 +217,7 @@ jobs:
         done
         
         # 데이터 최소 요구사항 검사
-        etf_count=$(jq length data/etfs.json)
+        etf_count=$(jq length docs/etfs.json)
         if [ "$etf_count" -lt 50 ]; then
           echo "❌ ETF count too low: $etf_count (expected: >50)"
           exit 1
@@ -240,7 +240,7 @@ jobs:
         echo "| File | Size |" >> $GITHUB_STEP_SUMMARY
         echo "|------|------|" >> $GITHUB_STEP_SUMMARY
         
-        for file in data/*.json; do
+        for file in docs/*.json; do
           if [ -f "$file" ]; then
             size=$(du -h "$file" | cut -f1)
             filename=$(basename "$file")
@@ -253,15 +253,15 @@ jobs:
         echo "### 📈 Data Statistics" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
-        if [ -f "data/etfs.json" ]; then
-          etf_count=$(jq length data/etfs.json)
+        if [ -f "docs/etfs.json" ]; then
+          etf_count=$(jq length docs/etfs.json)
           echo "- **Total ETFs:** $etf_count" >> $GITHUB_STEP_SUMMARY
         fi
         
-        if [ -f "data/schedule_v3.json" ]; then
-          event_count=$(jq '.upcoming | length' data/schedule_v3.json 2>/dev/null || echo "0")
+        if [ -f "docs/schedule_v3.json" ]; then
+          event_count=$(jq '.upcoming | length' docs/schedule_v3.json 2>/dev/null || echo "0")
           echo "- **Dividend Events:** $event_count" >> $GITHUB_STEP_SUMMARY
         fi
         
-        dividend_files=$(ls data/dividends_*.json 2>/dev/null | wc -l)
+        dividend_files=$(ls docs/dividends_*.json 2>/dev/null | wc -l)
         echo "- **ETFs with History:** $dividend_files" >> $GITHUB_STEP_SUMMARY 

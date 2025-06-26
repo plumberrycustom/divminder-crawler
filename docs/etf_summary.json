@@ -1,0 +1,357 @@
+{
+  "etfs": [
+    {
+      "symbol": "ABNY",
+      "name": "",
+      "group": "GroupD",
+      "frequency": "monthly",
+      "description": "YieldMax ABNY ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "AIYY",
+      "name": "",
+      "group": "GroupC",
+      "frequency": "monthly",
+      "description": "YieldMax AIYY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-05",
+      "nextPayDate": "2025-07-06"
+    },
+    {
+      "symbol": "AMDY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax AMDY ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "AMZY",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax AMZY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-05",
+      "nextPayDate": "2025-07-06"
+    },
+    {
+      "symbol": "APLY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax APLY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-05",
+      "nextPayDate": "2025-07-06"
+    },
+    {
+      "symbol": "BABO",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax BABO ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "BIGY",
+      "name": "",
+      "group": "Target12",
+      "frequency": "monthly",
+      "description": "YieldMax BIGY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-04",
+      "nextPayDate": "2025-07-05"
+    },
+    {
+      "symbol": "CHPY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax CHPY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "CONY",
+      "name": "",
+      "group": "GroupC",
+      "frequency": "monthly",
+      "description": "YieldMax CONY ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "DISO",
+      "name": "YieldMax™ DISOption Income Strategy ETF",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax DISO ETF - monthly dividend payments",
+      "nextExDate": "2025-07-05",
+      "nextPayDate": "2025-07-06"
+    },
+    {
+      "symbol": "FBY",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax FBY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "FIAT",
+      "name": "",
+      "group": "GroupC",
+      "frequency": "monthly",
+      "description": "YieldMax FIAT ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "GDXY",
+      "name": "",
+      "group": "GroupD",
+      "frequency": "monthly",
+      "description": "YieldMax GDXY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "GOOY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax GOOY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-12",
+      "nextPayDate": "2025-07-13"
+    },
+    {
+      "symbol": "GPTY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax GPTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "JPMO",
+      "name": "YieldMax™ JPMOption Income Strategy ETF",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax JPMO ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "LFGY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax LFGY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "MARO",
+      "name": "",
+      "group": "GroupD",
+      "frequency": "monthly",
+      "description": "YieldMax MARO ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "MRNY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax MRNY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "MSFO",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax MSFO ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "MSTY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax MSTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-05",
+      "nextPayDate": "2025-07-06"
+    },
+    {
+      "symbol": "NFLY",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax NFLY ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "NVDY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax NVDY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "OARK",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax OARK ETF - monthly dividend payments",
+      "nextExDate": "2023-10-11",
+      "nextPayDate": "2023-10-12"
+    },
+    {
+      "symbol": "PLTY",
+      "name": "",
+      "group": "GroupC",
+      "frequency": "monthly",
+      "description": "YieldMax PLTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "PYPY",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax PYPY ETF - monthly dividend payments",
+      "nextExDate": "2025-06-29",
+      "nextPayDate": "2025-06-30"
+    },
+    {
+      "symbol": "QDTY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax QDTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "RDTY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax RDTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "RNTY",
+      "name": "",
+      "group": "Target12",
+      "frequency": "monthly",
+      "description": "YieldMax RNTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-04",
+      "nextPayDate": "2025-07-05"
+    },
+    {
+      "symbol": "SDTY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "weekly",
+      "description": "YieldMax SDTY ETF - weekly dividend payments",
+      "nextExDate": "2025-06-27",
+      "nextPayDate": "2025-06-28"
+    },
+    {
+      "symbol": "SNOY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax SNOY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-12",
+      "nextPayDate": "2025-07-13"
+    },
+    {
+      "symbol": "SOXY",
+      "name": "",
+      "group": "Target12",
+      "frequency": "monthly",
+      "description": "YieldMax SOXY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-04",
+      "nextPayDate": "2025-07-05"
+    },
+    {
+      "symbol": "SQY",
+      "name": "",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax SQY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-05",
+      "nextPayDate": "2025-07-06"
+    },
+    {
+      "symbol": "TSLY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax TSLY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-12",
+      "nextPayDate": "2025-07-13"
+    },
+    {
+      "symbol": "TSMY",
+      "name": "",
+      "group": "GroupA",
+      "frequency": "monthly",
+      "description": "YieldMax TSMY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-12",
+      "nextPayDate": "2025-07-13"
+    },
+    {
+      "symbol": "ULTY",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax ULTY ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "XOMO",
+      "name": "YieldMax™ XOMOption Income Strategy ETF",
+      "group": "GroupB",
+      "frequency": "monthly",
+      "description": "YieldMax XOMO ETF - monthly dividend payments",
+      "nextExDate": "2025-07-12",
+      "nextPayDate": "2025-07-13"
+    },
+    {
+      "symbol": "YMAG",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax YMAG ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    },
+    {
+      "symbol": "YMAX",
+      "name": "",
+      "group": "Weekly",
+      "frequency": "monthly",
+      "description": "YieldMax YMAX ETF - monthly dividend payments",
+      "nextExDate": "2025-07-20",
+      "nextPayDate": "2025-07-21"
+    }
+  ],
+  "lastUpdated": "2025-06-26T08:05:24.637723+09:00",
+  "totalETFs": 39
+}

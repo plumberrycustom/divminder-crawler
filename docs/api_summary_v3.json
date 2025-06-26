@@ -24,20 +24,20 @@
     ],
     "groups": {
       "GroupA": 11,
-      "GroupB": 12,
-      "GroupC": 13,
-      "GroupD": 14,
+      "GroupB": 11,
+      "GroupC": 14,
+      "GroupD": 15,
       "Target12": 5,
       "Weekly": 9
     },
-    "lastUpdated": "2025-06-25T01:25:38+09:00",
-    "nextUpdate": "2025-06-26T01:25:38+09:00",
+    "lastUpdated": "2025-06-25T01:50:29+09:00",
+    "nextUpdate": "2025-06-26T01:50:29+09:00",
     "status": "operational",
     "totalETFs": 65,
     "totalGroups": 6,
-    "upcomingEvents": 100,
+    "upcomingEvents": 101,
     "updateFrequency": "Daily at 00:05 KST",
     "version": "3.0.0"
   },
-  "timestamp": "2025-06-25T01:25:38.368082+09:00"
+  "timestamp": "2025-06-25T01:50:29.102346+09:00"
 }

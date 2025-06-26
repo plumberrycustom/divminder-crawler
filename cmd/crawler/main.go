@@ -27,7 +27,7 @@ func main() {
 	logger.Info("Starting DivMinder crawler with comprehensive YieldMax scraping...")
 
 	// Create output directory
-	outputDir := "data"
+	outputDir := "docs"
 	if err := os.MkdirAll(outputDir, 0755); err != nil {
 		logger.Fatalf("Failed to create output directory: %v", err)
 	}

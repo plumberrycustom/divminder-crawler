@@ -1,26 +1,26 @@
 [
   {
-    "symbol": "SOXY",
-    "name": "YieldMax™ Target 12™ Semiconductor Option Income ETF",
-    "group": "Target12",
+    "symbol": "INTY",
+    "name": "YieldMax INTY Option Income Strategy ETF",
+    "group": "GroupC",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
     "nextPayDate": ""
   },
   {
-    "symbol": "QDTY",
-    "name": "YieldMax™ Nasdaq 100 0DTE Covered Call Strategy ETF",
-    "group": "Weekly",
+    "symbol": "JEPY",
+    "name": "YieldMax JEPY Option Income Strategy ETF",
+    "group": "GroupC",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
     "nextPayDate": ""
   },
   {
-    "symbol": "AMDY",
-    "name": "YieldMax™ AMDOption Income Strategy ETF",
-    "group": "GroupA",
+    "symbol": "WUGI",
+    "name": "YieldMax WUGI Option Income Strategy ETF",
+    "group": "GroupC",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
@@ -36,17 +36,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "JPMO",
-    "name": "YieldMax™ JPMOption Income Strategy ETF",
-    "group": "GroupA",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "NFLY",
-    "name": "YieldMax™ NFLXOption Income Strategy ETF",
+    "symbol": "SQY",
+    "name": "YieldMax™ XYZOption Income Strategy ETF",
     "group": "GroupB",
     "frequency": "monthly",
     "description": "",
@@ -54,8 +45,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "COWY",
-    "name": "YieldMax COWY Option Income Strategy ETF",
+    "symbol": "BALY",
+    "name": "YieldMax BALY Option Income Strategy ETF",
     "group": "GroupC",
     "frequency": "monthly",
     "description": "",
@@ -63,17 +54,44 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "PLTY",
-    "name": "YieldMax™ PLTROption Income Strategy ETF",
-    "group": "GroupC",
+    "symbol": "LCID",
+    "name": "YieldMax LCID Option Income Strategy ETF",
+    "group": "GroupD",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
     "nextPayDate": ""
   },
   {
-    "symbol": "RNTY",
-    "name": "YieldMax™ Target 12™ Real Estate Option Income ETF",
+    "symbol": "QQLY",
+    "name": "YieldMax QQLY Option Income Strategy ETF",
+    "group": "GroupB",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AFRM",
+    "name": "YieldMax AFRM Option Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AMDY",
+    "name": "YieldMax™ AMDOption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "ALTY",
+    "name": "YieldMax ALTY Target 12 ETF",
     "group": "Target12",
     "frequency": "monthly",
     "description": "",
@@ -90,8 +108,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "AIPY",
-    "name": "YieldMax AIPY Option Income Strategy ETF",
+    "symbol": "DISO",
+    "name": "YieldMax™ DISOption Income Strategy ETF",
     "group": "GroupB",
     "frequency": "monthly",
     "description": "",
@@ -99,26 +117,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "ALTY",
-    "name": "YieldMax ALTY Target 12 ETF",
-    "group": "Target12",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "SDTY",
-    "name": "YieldMax™ S\u0026P 500 0DTE Covered Call Strategy ETF",
-    "group": "Weekly",
-    "frequency": "weekly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "FBY",
-    "name": "YieldMax™ METAOption Income Strategy ETF",
+    "symbol": "PYPY",
+    "name": "YieldMax™ PYPLOption Income Strategy ETF",
     "group": "GroupB",
     "frequency": "monthly",
     "description": "",
@@ -126,35 +126,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "GOOY",
-    "name": "YieldMax™ GOOGLOption Income Strategy ETF",
-    "group": "GroupA",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "BALY",
-    "name": "YieldMax BALY Option Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "DFLY",
-    "name": "YieldMax DFLY Option Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "KODY",
-    "name": "YieldMax KODY Option Income Strategy ETF",
+    "symbol": "NETY",
+    "name": "YieldMax NETY Option Income Strategy ETF",
     "group": "GroupC",
     "frequency": "monthly",
     "description": "",
@@ -171,17 +144,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "MRSY",
-    "name": "YieldMax MRSY Option Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "CHPY",
-    "name": "YieldMax™ Semiconductor Portfolio Option Income ETF",
+    "symbol": "QDTY",
+    "name": "YieldMax™ Nasdaq 100 0DTE Covered Call Strategy ETF",
     "group": "Weekly",
     "frequency": "monthly",
     "description": "",
@@ -189,8 +153,17 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "ULTY",
-    "name": "YieldMax™ UltraOption Income Strategy ETF",
+    "symbol": "SDTY",
+    "name": "YieldMax™ S\u0026P 500 0DTE Covered Call Strategy ETF",
+    "group": "Weekly",
+    "frequency": "weekly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "YMAX",
+    "name": "YieldMax™ Universe Fund of Option Income ETFs",
     "group": "Weekly",
     "frequency": "monthly",
     "description": "",
@@ -198,80 +171,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "JEPY",
-    "name": "YieldMax JEPY Option Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "ABNY",
-    "name": "YieldMax™ ABNBOption Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "PEY",
-    "name": "YieldMax PEY Option Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "GPTY",
-    "name": "YieldMax™ AI \u0026 Tech Portfolio Option Income ETF",
-    "group": "Weekly",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "RDTY",
-    "name": "YieldMax™ R2000 0DTE Covered Call Strategy ETF",
-    "group": "Weekly",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "MSFO",
-    "name": "YieldMax™ MSFTOption Income Strategy ETF",
-    "group": "GroupB",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "GPIY",
-    "name": "YieldMax GPIY Option Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "SPYY",
-    "name": "YieldMax SPYY Option Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "DSNY",
-    "name": "YieldMax DSNY Option Income Strategy ETF",
+    "symbol": "GDXY",
+    "name": "YieldMax™ Gold Miners Option Income Strategy ETF",
     "group": "GroupD",
     "frequency": "monthly",
     "description": "",
@@ -288,8 +189,116 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "YMAX",
-    "name": "YieldMax™ Universe Fund of Option Income ETFs",
+    "symbol": "KLIP",
+    "name": "YieldMax KLIP Target 12 ETF",
+    "group": "Target12",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "RDTY",
+    "name": "YieldMax™ R2000 0DTE Covered Call Strategy ETF",
+    "group": "Weekly",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "OARK",
+    "name": "YieldMax™ Innovation Option Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "NVDY",
+    "name": "YieldMax™ NVDAOption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MSTY",
+    "name": "YieldMax™ MSTROption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SNOY",
+    "name": "YieldMax™ SNOWOption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "DFLY",
+    "name": "YieldMax DFLY Option Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "RNTY",
+    "name": "YieldMax™ Target 12™ Real Estate Option Income ETF",
+    "group": "Target12",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AIPY",
+    "name": "YieldMax AIPY Option Income Strategy ETF",
+    "group": "GroupB",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SPYY",
+    "name": "YieldMax SPYY Option Income Strategy ETF",
+    "group": "GroupC",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "HPAY",
+    "name": "YieldMax HPAY Option Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MRSY",
+    "name": "YieldMax MRSY Option Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "LFGY",
+    "name": "YieldMax™ Crypto Industry \u0026 Tech Portfolio Option Income ETF",
     "group": "Weekly",
     "frequency": "monthly",
     "description": "",
@@ -306,26 +315,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "AMZY",
-    "name": "YieldMax™ AMZNOption Income Strategy ETF",
-    "group": "GroupB",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "LFGY",
-    "name": "YieldMax™ Crypto Industry \u0026 Tech Portfolio Option Income ETF",
-    "group": "Weekly",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "MRNY",
-    "name": "YieldMax™ MRNAOption Income Strategy ETF",
+    "symbol": "JPMO",
+    "name": "YieldMax™ JPMOption Income Strategy ETF",
     "group": "GroupA",
     "frequency": "monthly",
     "description": "",
@@ -333,44 +324,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "AFRM",
-    "name": "YieldMax AFRM Option Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "BOLDY",
-    "name": "YieldMax BOLDY Option Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "PYPY",
-    "name": "YieldMax™ PYPLOption Income Strategy ETF",
-    "group": "GroupB",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "SQY",
-    "name": "YieldMax™ XYZOption Income Strategy ETF",
-    "group": "GroupB",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "CONY",
-    "name": "YieldMax™ COINOption Income Strategy ETF",
+    "symbol": "GPIY",
+    "name": "YieldMax GPIY Option Income Strategy ETF",
     "group": "GroupC",
     "frequency": "monthly",
     "description": "",
@@ -387,8 +342,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "HPAY",
-    "name": "YieldMax HPAY Option Income Strategy ETF",
+    "symbol": "DSNY",
+    "name": "YieldMax DSNY Option Income Strategy ETF",
     "group": "GroupD",
     "frequency": "monthly",
     "description": "",
@@ -396,9 +351,9 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "AMDL",
-    "name": "YieldMax AMDL Option Income Strategy ETF",
-    "group": "GroupD",
+    "symbol": "ULTY",
+    "name": "YieldMax™ UltraOption Income Strategy ETF",
+    "group": "Weekly",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
@@ -414,80 +369,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "MSTY",
-    "name": "YieldMax™ MSTROption Income Strategy ETF",
-    "group": "GroupA",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "DISO",
-    "name": "YieldMax™ DISOption Income Strategy ETF",
-    "group": "GroupB",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "INTY",
-    "name": "YieldMax INTY Option Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "OARK",
-    "name": "YieldMax™ Innovation Option Income Strategy ETF",
-    "group": "GroupA",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "AIYY",
-    "name": "YieldMax™ AIOption Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "NETY",
-    "name": "YieldMax NETY Option Income Strategy ETF",
-    "group": "GroupC",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "KLIP",
-    "name": "YieldMax KLIP Target 12 ETF",
-    "group": "Target12",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "SNOY",
-    "name": "YieldMax™ SNOWOption Income Strategy ETF",
-    "group": "GroupA",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "QQLY",
-    "name": "YieldMax QQLY Option Income Strategy ETF",
+    "symbol": "NFLY",
+    "name": "YieldMax™ NFLXOption Income Strategy ETF",
     "group": "GroupB",
     "frequency": "monthly",
     "description": "",
@@ -504,8 +387,8 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "WUGI",
-    "name": "YieldMax WUGI Option Income Strategy ETF",
+    "symbol": "COWY",
+    "name": "YieldMax COWY Option Income Strategy ETF",
     "group": "GroupC",
     "frequency": "monthly",
     "description": "",
@@ -513,36 +396,9 @@
     "nextPayDate": ""
   },
   {
-    "symbol": "GDXY",
-    "name": "YieldMax™ Gold Miners Option Income Strategy ETF",
+    "symbol": "BOLDY",
+    "name": "YieldMax BOLDY Option Income Strategy ETF",
     "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "LCID",
-    "name": "YieldMax LCID Option Income Strategy ETF",
-    "group": "GroupD",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "NVDY",
-    "name": "YieldMax™ NVDAOption Income Strategy ETF",
-    "group": "GroupA",
-    "frequency": "monthly",
-    "description": "",
-    "nextExDate": "",
-    "nextPayDate": ""
-  },
-  {
-    "symbol": "TSMY",
-    "name": "YieldMax™ TSMOption Income Strategy ETF",
-    "group": "GroupA",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
@@ -558,9 +414,108 @@
     "nextPayDate": ""
   },
   {
+    "symbol": "CONY",
+    "name": "YieldMax™ COINOption Income Strategy ETF",
+    "group": "GroupC",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AIYY",
+    "name": "YieldMax™ AIOption Income Strategy ETF",
+    "group": "GroupC",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
     "symbol": "CRSY",
     "name": "YieldMax CRSY Option Income Strategy ETF",
     "group": "GroupC",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "ABNY",
+    "name": "YieldMax™ ABNBOption Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "SOXY",
+    "name": "YieldMax™ Target 12™ Semiconductor Option Income ETF",
+    "group": "Target12",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "CHPY",
+    "name": "YieldMax™ Semiconductor Portfolio Option Income ETF",
+    "group": "Weekly",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "FBY",
+    "name": "YieldMax™ METAOption Income Strategy ETF",
+    "group": "GroupB",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "KODY",
+    "name": "YieldMax KODY Option Income Strategy ETF",
+    "group": "GroupC",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "PLTY",
+    "name": "YieldMax™ PLTROption Income Strategy ETF",
+    "group": "GroupC",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "GPTY",
+    "name": "YieldMax™ AI \u0026 Tech Portfolio Option Income ETF",
+    "group": "Weekly",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "TSMY",
+    "name": "YieldMax™ TSMOption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "AMZY",
+    "name": "YieldMax™ AMZNOption Income Strategy ETF",
+    "group": "GroupB",
     "frequency": "monthly",
     "description": "",
     "nextExDate": "",
@@ -576,8 +531,53 @@
     "nextPayDate": ""
   },
   {
+    "symbol": "AMDL",
+    "name": "YieldMax AMDL Option Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "GOOY",
+    "name": "YieldMax™ GOOGLOption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MRNY",
+    "name": "YieldMax™ MRNAOption Income Strategy ETF",
+    "group": "GroupA",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "MSFO",
+    "name": "YieldMax™ MSFTOption Income Strategy ETF",
+    "group": "GroupB",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
     "symbol": "MARO",
     "name": "YieldMax™ MARAOption Income Strategy ETF",
+    "group": "GroupD",
+    "frequency": "monthly",
+    "description": "",
+    "nextExDate": "",
+    "nextPayDate": ""
+  },
+  {
+    "symbol": "PEY",
+    "name": "YieldMax PEY Option Income Strategy ETF",
     "group": "GroupD",
     "frequency": "monthly",
     "description": "",

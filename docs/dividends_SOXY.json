@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "SOXY",
+      "exDate": "2025-07-02T00:00:00Z",
+      "payDate": "2025-07-03T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5248,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SOXY",
       "exDate": "2025-06-04T00:00:00Z",
       "payDate": "2025-06-05T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -60,12 +69,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 6,
-    "averageAmount": 0.4732,
-    "lastAmount": 0.472,
+    "totalPayments": 7,
+    "averageAmount": 0.4805714285714286,
+    "lastAmount": 0.5248,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-02T15:18:45.123950863Z"
+  "updatedAt": "2025-07-03T15:16:08.298935382Z"
 }

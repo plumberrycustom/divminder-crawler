@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "BIGY",
+      "exDate": "2025-07-02T00:00:00Z",
+      "payDate": "2025-07-03T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.498,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BIGY",
       "exDate": "2025-06-04T00:00:00Z",
       "payDate": "2025-06-05T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -60,12 +69,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 6,
-    "averageAmount": 0.4862333333333333,
-    "lastAmount": 0.4803,
+    "totalPayments": 7,
+    "averageAmount": 0.48791428571428563,
+    "lastAmount": 0.498,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-02T15:17:18.810563728Z"
+  "updatedAt": "2025-07-03T15:17:07.808088748Z"
 }

@@ -87,6 +87,15 @@
     },
     {
       "symbol": "OARK",
+      "exDate": "2025-07-10T00:00:00Z",
+      "payDate": "2025-07-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3439,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "OARK",
       "exDate": "2025-06-12T00:00:00Z",
       "payDate": "2025-06-13T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -366,12 +375,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 40,
-    "averageAmount": 0.47704,
+    "totalPayments": 41,
+    "averageAmount": 0.47379268292682936,
     "lastAmount": 0.3635,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-09T15:17:09.814445405Z"
+  "updatedAt": "2025-07-10T15:19:05.375732693Z"
 }

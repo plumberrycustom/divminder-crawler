@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "TSLY",
+      "exDate": "2025-07-10T00:00:00Z",
+      "payDate": "2025-07-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3873,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
       "exDate": "2025-06-12T00:00:00Z",
       "payDate": "2025-06-13T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -280,6 +289,15 @@
       "payDate": "2023-01-11T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
       "amount": 1.9972,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSLY",
+      "exDate": "2025-07-10T00:00:00Z",
+      "payDate": "2025-07-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3873,
       "group": "",
       "frequency": ""
     },
@@ -564,12 +582,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 62,
-    "averageAmount": 1.082987096774194,
-    "lastAmount": 0.4028,
+    "totalPayments": 64,
+    "averageAmount": 1.0612468750000004,
+    "lastAmount": 0.3873,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-09T15:15:56.320411321Z"
+  "updatedAt": "2025-07-10T15:18:44.860411058Z"
 }

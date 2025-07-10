@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "QDTY",
+      "exDate": "2025-07-10T00:00:00Z",
+      "payDate": "2025-07-11T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1909,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
       "exDate": "2025-07-03T00:00:00Z",
       "payDate": "2025-07-04T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -177,12 +186,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 19,
-    "averageAmount": 0.26018421052631574,
-    "lastAmount": 0.1618,
+    "totalPayments": 20,
+    "averageAmount": 0.25672,
+    "lastAmount": 0.1909,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-09T15:15:48.032389269Z"
+  "updatedAt": "2025-07-10T15:16:08.742285903Z"
 }

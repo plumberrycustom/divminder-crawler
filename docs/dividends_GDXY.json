@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "GDXY",
+      "exDate": "2025-07-17T00:00:00Z",
+      "payDate": "2025-07-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3321,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GDXY",
       "exDate": "2025-06-20T00:00:00Z",
       "payDate": "2025-06-21T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -123,12 +132,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 13,
-    "averageAmount": 0.5706538461538462,
-    "lastAmount": 0.8449,
+    "totalPayments": 14,
+    "averageAmount": 0.5536142857142857,
+    "lastAmount": 0.3321,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-16T15:15:57.752830828Z"
+  "updatedAt": "2025-07-17T15:17:07.137005151Z"
 }

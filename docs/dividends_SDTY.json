@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "SDTY",
+      "exDate": "2025-07-17T00:00:00Z",
+      "payDate": "2025-07-18T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1481,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SDTY",
       "exDate": "2025-07-10T00:00:00Z",
       "payDate": "2025-07-11T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -195,12 +204,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 21,
-    "averageAmount": 0.23298095238095234,
-    "lastAmount": 0.1398,
+    "totalPayments": 22,
+    "averageAmount": 0.22912272727272723,
+    "lastAmount": 0.1481,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-16T15:16:18.05685164Z"
+  "updatedAt": "2025-07-17T15:15:39.29748373Z"
 }

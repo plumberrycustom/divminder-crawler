@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "FIAT",
+      "exDate": "2025-07-24T00:00:00Z",
+      "payDate": "2025-07-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1381,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FIAT",
       "exDate": "2025-06-26T00:00:00Z",
       "payDate": "2025-06-27T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -114,12 +123,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 12,
-    "averageAmount": 0.8679416666666667,
-    "lastAmount": 0.1536,
+    "totalPayments": 13,
+    "averageAmount": 0.8118,
+    "lastAmount": 0.1381,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-23T15:19:33.354120959Z"
+  "updatedAt": "2025-07-24T15:15:23.796279718Z"
 }

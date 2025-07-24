@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "GPTY",
+      "exDate": "2025-07-24T00:00:00Z",
+      "payDate": "2025-07-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3219,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "GPTY",
       "exDate": "2025-07-17T00:00:00Z",
       "payDate": "2025-07-18T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -222,12 +231,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 24,
-    "averageAmount": 0.2906041666666666,
-    "lastAmount": 0.2956,
+    "totalPayments": 25,
+    "averageAmount": 0.291856,
+    "lastAmount": 0.3219,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-23T15:15:49.04126929Z"
+  "updatedAt": "2025-07-24T15:16:53.2212058Z"
 }

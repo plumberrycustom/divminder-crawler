@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "MSFO",
+      "exDate": "2025-07-24T00:00:00Z",
+      "payDate": "2025-07-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4139,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSFO",
       "exDate": "2025-06-26T00:00:00Z",
       "payDate": "2025-06-27T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -204,12 +213,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 22,
-    "averageAmount": 0.48798181818181807,
-    "lastAmount": 0.4848,
+    "totalPayments": 23,
+    "averageAmount": 0.48476086956521736,
+    "lastAmount": 0.4139,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-23T15:18:56.00471908Z"
+  "updatedAt": "2025-07-24T15:17:00.902819074Z"
 }

@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "ABNY",
+      "exDate": "2025-07-24T00:00:00Z",
+      "payDate": "2025-07-25T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3748,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ABNY",
       "exDate": "2025-06-26T00:00:00Z",
       "payDate": "2025-06-27T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -114,12 +123,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 12,
-    "averageAmount": 0.5250333333333334,
-    "lastAmount": 0.3232,
+    "totalPayments": 13,
+    "averageAmount": 0.513476923076923,
+    "lastAmount": 0.3748,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-07-23T15:16:33.958916095Z"
+  "updatedAt": "2025-07-24T15:19:25.138585454Z"
 }

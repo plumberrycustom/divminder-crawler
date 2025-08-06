@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "RNTY",
+      "exDate": "2025-08-06T00:00:00Z",
+      "payDate": "2025-08-07T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5066,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "RNTY",
       "exDate": "2025-07-02T00:00:00Z",
       "payDate": "2025-07-03T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -24,12 +33,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 2,
-    "averageAmount": 0.5204,
-    "lastAmount": 0.5199,
+    "totalPayments": 3,
+    "averageAmount": 0.5158,
+    "lastAmount": 0.5066,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-05T15:17:09.89222165Z"
+  "updatedAt": "2025-08-06T15:18:53.325983845Z"
 }

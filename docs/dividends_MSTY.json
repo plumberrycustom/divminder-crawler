@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "MSTY",
+      "exDate": "2025-07-31T00:00:00Z",
+      "payDate": "2025-08-01T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 1.1835,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MSTY",
       "exDate": "2025-07-03T00:00:00Z",
       "payDate": "2025-07-04T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -150,12 +159,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 16,
-    "averageAmount": 2.4754249999999995,
-    "lastAmount": 1.2382,
+    "totalPayments": 17,
+    "averageAmount": 2.3994294117647055,
+    "lastAmount": 1.1835,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-05T15:19:39.230796808Z"
+  "updatedAt": "2025-08-06T15:16:30.094515168Z"
 }

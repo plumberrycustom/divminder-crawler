@@ -2,7 +2,7 @@
   "symbol": "ULTY",
   "name": "YieldMax™ UltraOption Income Strategy ETF",
   "group": "Weekly",
-  "frequency": "monthly",
+  "frequency": "weekly",
   "events": [
     {
       "symbol": "ULTY",
@@ -319,5 +319,5 @@
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-07T15:17:57.681649206Z"
+  "updatedAt": "2025-08-08T15:17:31.909336006Z"
 }

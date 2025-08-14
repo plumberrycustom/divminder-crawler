@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "PLTY",
+      "exDate": "2025-08-14T00:00:00Z",
+      "payDate": "2025-08-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 7.4924,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PLTY",
       "exDate": "2025-07-17T00:00:00Z",
       "payDate": "2025-07-18T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -96,12 +105,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 10,
-    "averageAmount": 4.09033,
-    "lastAmount": 2.5602,
+    "totalPayments": 11,
+    "averageAmount": 4.399609090909092,
+    "lastAmount": 7.4924,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-13T15:19:36.628712457Z"
+  "updatedAt": "2025-08-14T15:18:15.930756715Z"
 }

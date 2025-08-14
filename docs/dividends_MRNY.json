@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "MRNY",
+      "exDate": "2025-08-14T00:00:00Z",
+      "payDate": "2025-08-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0946,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MRNY",
       "exDate": "2025-07-17T00:00:00Z",
       "payDate": "2025-07-18T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -195,12 +204,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 21,
-    "averageAmount": 0.5417714285714285,
-    "lastAmount": 0.2004,
+    "totalPayments": 22,
+    "averageAmount": 0.5214454545454545,
+    "lastAmount": 0.0946,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-13T15:17:26.118033071Z"
+  "updatedAt": "2025-08-14T15:16:23.541789381Z"
 }

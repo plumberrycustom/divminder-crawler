@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "SNOY",
+      "exDate": "2025-08-07T00:00:00Z",
+      "payDate": "2025-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4551,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SNOY",
       "exDate": "2025-07-10T00:00:00Z",
       "payDate": "2025-07-11T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -132,12 +141,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 14,
-    "averageAmount": 0.8670714285714285,
-    "lastAmount": 0.471,
+    "totalPayments": 15,
+    "averageAmount": 0.8396066666666666,
+    "lastAmount": 0.4551,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-13T15:17:30.231829362Z"
+  "updatedAt": "2025-08-14T15:17:43.194753336Z"
 }

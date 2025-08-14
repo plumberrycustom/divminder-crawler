@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "BABO",
+      "exDate": "2025-08-14T00:00:00Z",
+      "payDate": "2025-08-15T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.7544,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "BABO",
       "exDate": "2025-07-17T00:00:00Z",
       "payDate": "2025-07-18T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -114,12 +123,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 12,
-    "averageAmount": 0.801025,
-    "lastAmount": 0.382,
+    "totalPayments": 13,
+    "averageAmount": 0.7974384615384615,
+    "lastAmount": 0.7544,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-13T15:18:17.077350195Z"
+  "updatedAt": "2025-08-14T15:17:11.588500857Z"
 }

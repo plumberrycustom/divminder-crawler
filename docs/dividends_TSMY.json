@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "TSMY",
+      "exDate": "2025-08-07T00:00:00Z",
+      "payDate": "2025-08-08T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9535,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "TSMY",
       "exDate": "2025-07-10T00:00:00Z",
       "payDate": "2025-07-11T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -105,12 +114,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 11,
-    "averageAmount": 0.6649727272727273,
-    "lastAmount": 0.6378,
+    "totalPayments": 12,
+    "averageAmount": 0.6890166666666667,
+    "lastAmount": 0.9535,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-13T15:18:53.073088099Z"
+  "updatedAt": "2025-08-14T15:19:41.00896328Z"
 }

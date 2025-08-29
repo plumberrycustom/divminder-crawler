@@ -6,6 +6,24 @@
   "events": [
     {
       "symbol": "CHPY",
+      "exDate": "2025-08-28T00:00:00Z",
+      "payDate": "2025-08-29T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3964,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CHPY",
+      "exDate": "2025-08-21T00:00:00Z",
+      "payDate": "2025-08-22T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3993,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CHPY",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -168,12 +186,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 18,
-    "averageAmount": 0.39622777777777773,
-    "lastAmount": 0.4056,
+    "totalPayments": 20,
+    "averageAmount": 0.39638999999999996,
+    "lastAmount": 0.3964,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:15:48.732176862Z"
+  "updatedAt": "2025-08-29T15:16:15.378538146Z"
 }

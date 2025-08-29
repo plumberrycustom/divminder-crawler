@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "SQY",
+      "exDate": "2025-08-28T00:00:00Z",
+      "payDate": "2025-08-29T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4329,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "SQY",
       "exDate": "2025-07-31T00:00:00Z",
       "payDate": "2025-08-01T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -204,12 +213,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 22,
-    "averageAmount": 0.8400363636363639,
-    "lastAmount": 0.6785,
+    "totalPayments": 23,
+    "averageAmount": 0.8223347826086957,
+    "lastAmount": 0.4329,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:19:10.532872164Z"
+  "updatedAt": "2025-08-29T15:18:41.749305196Z"
 }

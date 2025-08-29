@@ -6,6 +6,24 @@
   "events": [
     {
       "symbol": "RDTY",
+      "exDate": "2025-08-28T00:00:00Z",
+      "payDate": "2025-08-29T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4502,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "RDTY",
+      "exDate": "2025-08-21T00:00:00Z",
+      "payDate": "2025-08-22T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3935,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "RDTY",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -204,12 +222,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 22,
-    "averageAmount": 0.32885000000000003,
-    "lastAmount": 0.3123,
+    "totalPayments": 24,
+    "averageAmount": 0.33659999999999995,
+    "lastAmount": 0.4502,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:19:22.734054507Z"
+  "updatedAt": "2025-08-29T15:16:52.829242453Z"
 }

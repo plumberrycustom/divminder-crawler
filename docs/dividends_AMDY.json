@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "AMDY",
+      "exDate": "2025-08-21T00:00:00Z",
+      "payDate": "2025-08-22T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.5441,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMDY",
       "exDate": "2025-07-24T00:00:00Z",
       "payDate": "2025-07-25T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -204,12 +213,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 22,
-    "averageAmount": 0.7145045454545454,
-    "lastAmount": 0.5656,
+    "totalPayments": 23,
+    "averageAmount": 0.7070956521739129,
+    "lastAmount": 0.5441,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:18:35.686001663Z"
+  "updatedAt": "2025-08-29T15:17:54.159236035Z"
 }

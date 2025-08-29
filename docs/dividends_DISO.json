@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "DISO",
+      "exDate": "2025-08-28T00:00:00Z",
+      "payDate": "2025-08-29T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.3359,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "DISO",
       "exDate": "2025-07-31T00:00:00Z",
       "payDate": "2025-08-01T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -213,12 +222,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 23,
-    "averageAmount": 0.46971739130434786,
-    "lastAmount": 0.2738,
+    "totalPayments": 24,
+    "averageAmount": 0.4641416666666667,
+    "lastAmount": 0.3359,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:16:04.716158806Z"
+  "updatedAt": "2025-08-29T15:17:30.444800499Z"
 }

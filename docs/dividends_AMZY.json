@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "AMZY",
+      "exDate": "2025-08-28T00:00:00Z",
+      "payDate": "2025-08-29T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4903,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "AMZY",
       "exDate": "2025-07-31T00:00:00Z",
       "payDate": "2025-08-01T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -222,12 +231,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 24,
-    "averageAmount": 0.650275,
-    "lastAmount": 0.6415,
+    "totalPayments": 25,
+    "averageAmount": 0.6438760000000001,
+    "lastAmount": 0.4903,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:17:33.629873686Z"
+  "updatedAt": "2025-08-29T15:17:26.183709994Z"
 }

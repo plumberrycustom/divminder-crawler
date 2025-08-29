@@ -6,6 +6,24 @@
   "events": [
     {
       "symbol": "QDTY",
+      "exDate": "2025-08-28T00:00:00Z",
+      "payDate": "2025-08-29T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2833,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
+      "exDate": "2025-08-21T00:00:00Z",
+      "payDate": "2025-08-22T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1912,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "QDTY",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -231,12 +249,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 25,
-    "averageAmount": 0.24614799999999998,
-    "lastAmount": 0.1917,
+    "totalPayments": 27,
+    "averageAmount": 0.2454888888888889,
+    "lastAmount": 0.2833,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-08-28T15:16:54.708129406Z"
+  "updatedAt": "2025-08-29T15:17:49.975128013Z"
 }

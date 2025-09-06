@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "LFGY",
+      "exDate": "2025-09-04T00:00:00Z",
+      "payDate": "2025-09-05T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.441,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "LFGY",
       "exDate": "2025-08-28T00:00:00Z",
       "payDate": "2025-08-29T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -294,12 +303,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 32,
-    "averageAmount": 0.49659374999999994,
-    "lastAmount": 0.447,
+    "totalPayments": 33,
+    "averageAmount": 0.4949090909090908,
+    "lastAmount": 0.441,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-05T15:19:23.534308191Z"
+  "updatedAt": "2025-09-06T15:16:28.226466553Z"
 }

@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "JPMO",
+      "exDate": "2025-09-11T00:00:00Z",
+      "payDate": "2025-09-12T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2709,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "JPMO",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -222,12 +231,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 24,
-    "averageAmount": 0.38367083333333346,
-    "lastAmount": 0.2824,
+    "totalPayments": 25,
+    "averageAmount": 0.3791600000000001,
+    "lastAmount": 0.2709,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-10T15:16:01.154724223Z"
+  "updatedAt": "2025-09-11T15:16:57.173427659Z"
 }

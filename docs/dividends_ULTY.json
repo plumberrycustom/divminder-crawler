@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "ULTY",
+      "exDate": "2025-09-11T00:00:00Z",
+      "payDate": "2025-09-12T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.0928,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "ULTY",
       "exDate": "2025-09-04T00:00:00Z",
       "payDate": "2025-09-05T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -357,12 +366,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 39,
-    "averageAmount": 0.3615025641025641,
-    "lastAmount": 0.09,
+    "totalPayments": 40,
+    "averageAmount": 0.35478499999999996,
+    "lastAmount": 0.0928,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-10T15:18:06.877040556Z"
+  "updatedAt": "2025-09-11T15:15:50.337516272Z"
 }

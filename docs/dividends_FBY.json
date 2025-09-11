@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "FBY",
+      "exDate": "2025-09-11T00:00:00Z",
+      "payDate": "2025-09-12T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4545,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "FBY",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -231,12 +240,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 25,
-    "averageAmount": 0.680184,
-    "lastAmount": 0.6241,
+    "totalPayments": 26,
+    "averageAmount": 0.6715038461538463,
+    "lastAmount": 0.4545,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-10T15:18:59.850943308Z"
+  "updatedAt": "2025-09-11T15:17:53.949580855Z"
 }

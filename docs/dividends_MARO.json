@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "MARO",
+      "exDate": "2025-09-11T00:00:00Z",
+      "payDate": "2025-09-12T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.9376,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "MARO",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -87,12 +96,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 9,
-    "averageAmount": 1.7815555555555558,
-    "lastAmount": 1.0043,
+    "totalPayments": 10,
+    "averageAmount": 1.6971600000000002,
+    "lastAmount": 0.9376,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-10T15:19:07.757263721Z"
+  "updatedAt": "2025-09-11T15:18:10.240796957Z"
 }

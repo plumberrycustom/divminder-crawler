@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "NVDY",
+      "exDate": "2025-09-11T00:00:00Z",
+      "payDate": "2025-09-12T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.6428,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NVDY",
       "exDate": "2025-08-14T00:00:00Z",
       "payDate": "2025-08-15T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -258,12 +267,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 28,
-    "averageAmount": 1.1981178571428572,
-    "lastAmount": 0.8397,
+    "totalPayments": 29,
+    "averageAmount": 1.1789689655172415,
+    "lastAmount": 0.6428,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-10T15:16:20.99111707Z"
+  "updatedAt": "2025-09-11T15:17:58.040455743Z"
 }

@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "PYPY",
+      "exDate": "2025-09-18T00:00:00Z",
+      "payDate": "2025-09-19T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.2665,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "PYPY",
       "exDate": "2025-08-21T00:00:00Z",
       "payDate": "2025-08-22T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -213,12 +222,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 23,
-    "averageAmount": 0.5967826086956523,
-    "lastAmount": 0.34,
+    "totalPayments": 24,
+    "averageAmount": 0.5830208333333334,
+    "lastAmount": 0.2665,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-17T15:19:40.415824192Z"
+  "updatedAt": "2025-09-18T15:19:45.835899637Z"
 }

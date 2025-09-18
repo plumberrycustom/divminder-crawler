@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "YMAX",
+      "exDate": "2025-09-18T00:00:00Z",
+      "payDate": "2025-09-19T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1289,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAX",
       "exDate": "2025-09-11T00:00:00Z",
       "payDate": "2025-09-12T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -537,12 +546,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 59,
-    "averageAmount": 0.22426440677966103,
-    "lastAmount": 0.1321,
+    "totalPayments": 60,
+    "averageAmount": 0.22267499999999998,
+    "lastAmount": 0.1289,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-17T15:16:35.80864711Z"
+  "updatedAt": "2025-09-18T15:16:50.324371481Z"
 }

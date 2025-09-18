@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "NFLY",
+      "exDate": "2025-09-18T00:00:00Z",
+      "payDate": "2025-09-19T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4039,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "NFLY",
       "exDate": "2025-08-21T00:00:00Z",
       "payDate": "2025-08-22T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -231,12 +240,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 25,
-    "averageAmount": 0.6739759999999998,
-    "lastAmount": 0.467,
+    "totalPayments": 26,
+    "averageAmount": 0.6635884615384614,
+    "lastAmount": 0.4039,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-17T15:18:16.011276158Z"
+  "updatedAt": "2025-09-18T15:17:01.667154276Z"
 }

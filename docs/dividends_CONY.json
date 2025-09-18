@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "CONY",
+      "exDate": "2025-09-18T00:00:00Z",
+      "payDate": "2025-09-19T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.4522,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "CONY",
       "exDate": "2025-08-21T00:00:00Z",
       "payDate": "2025-08-22T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -222,12 +231,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 24,
-    "averageAmount": 1.2926666666666666,
-    "lastAmount": 0.3438,
+    "totalPayments": 25,
+    "averageAmount": 1.259048,
+    "lastAmount": 0.4522,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-17T15:16:43.79452966Z"
+  "updatedAt": "2025-09-18T15:18:07.445543507Z"
 }

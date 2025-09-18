@@ -6,6 +6,15 @@
   "events": [
     {
       "symbol": "YMAG",
+      "exDate": "2025-09-18T00:00:00Z",
+      "payDate": "2025-09-19T00:00:00Z",
+      "declareDate": "0001-01-01T00:00:00Z",
+      "amount": 0.1396,
+      "group": "",
+      "frequency": ""
+    },
+    {
+      "symbol": "YMAG",
       "exDate": "2025-09-11T00:00:00Z",
       "payDate": "2025-09-12T00:00:00Z",
       "declareDate": "0001-01-01T00:00:00Z",
@@ -537,12 +546,12 @@
     }
   ],
   "stats": {
-    "totalPayments": 59,
-    "averageAmount": 0.20327457627118647,
-    "lastAmount": 0.1427,
+    "totalPayments": 60,
+    "averageAmount": 0.20221333333333336,
+    "lastAmount": 0.1396,
     "yearToDateTotal": 0,
     "trailingYearTotal": 0,
     "changePercent": 0
   },
-  "updatedAt": "2025-09-17T15:16:23.655196635Z"
+  "updatedAt": "2025-09-18T15:15:51.022817677Z"
 }
